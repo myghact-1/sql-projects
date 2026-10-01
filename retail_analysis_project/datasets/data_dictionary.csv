@@ -1,0 +1,18 @@
+table,column,meaning,data_quality_note
+customers,customer_id,Customer identifier,Primary business key; duplicates intentionally exist in a separate duplicate subset
+customers,email,Customer email,Contains missing/malformed/inconsistent values
+customers,registration_date,Registration date,Multiple date formats
+products,product_id,Product identifier,Product business key
+products,unit_cost,Estimated product cost,Use for margin analysis
+products,stock_qty,Reported inventory,Contains suspicious values such as -1/9999/NULL
+orders,order_id,Order identifier,Order business key
+orders,customer_id,Customer identifier,Join to customers
+orders,order_date,Order date,Multiple date formats
+orders,order_status,Order lifecycle status,Inconsistent casing
+order_items,order_item_id,Order-line identifier,Line-level transaction
+order_items,quantity,Quantity purchased,Used for sales calculations
+order_items,discount_pct,Line discount,Contains occasional anomalous negative discount
+payments,payment_id,Payment identifier,Payment transaction key
+payments,payment_status,Payment state,Paid/Pending/Failed/Refunded
+payments,amount,Payment amount,Contains occasional negative values and reconciliation issues
+payments,transaction_ref,Payment reference,Contains missing values

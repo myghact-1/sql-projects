@@ -1,0 +1,71 @@
+product_id,product_name,category_id,unit_price,cost,stock_quantity,supplier,is_discontinued
+2001,Wireless Headphones,1,116.97,67.3,282,SupplierB,True
+2002,Smartphone Case,1,266.42,161.57,203,SupplierD,True
+2003,USB-C Cable,1,129.12,67.04,294,SupplierA,False
+2004,Bluetooth Speaker,1,291.98,158.83,230,SupplierD,True
+2005,Laptop Stand,1,109.9,66.58,399,SupplierB,False
+2006,Webcam HD,1,135.45,54.89,28,SupplierA,True
+2007,Mechanical Keyboard,1,54.36,27.01,165,SupplierB,False
+2008,Wireless Mouse,1,284.76,197.03,145,SupplierA,False
+2009,Power Bank,1,66.92,38.41,140,SupplierB,False
+2010,Smart Watch,1,188.17,89.62,328,SupplierB,True
+2011,Cotton T-Shirt,2,283.06,157.53,337,SupplierC,True
+2012,Denim Jeans,2,21.94,11.03,41,SupplierA,True
+2013,Hoodie,2,86.74,48.55,292,SupplierD,True
+2014,Running Shoes,2,195.3,85.49,321,SupplierC,False
+2015,Winter Jacket,2,150.04,65.99,350,SupplierD,False
+2016,Baseball Cap,2,141.52,62.7,80,SupplierD,False
+2017,Socks Pack,2,150.42,102.58,310,SupplierB,False
+2018,Leather Belt,2,259.82,161.05,440,SupplierC,False
+2019,Sunglasses,2,47.91,21.5,287,SupplierA,False
+2020,Backpack,2,80.09,36.56,230,SupplierB,False
+2021,Coffee Maker,3,38.07,23.57,196,SupplierD,False
+2022,Blender,3,289.17,129.22,416,SupplierC,True
+2023,Air Fryer,3,219.12,103.07,81,SupplierD,True
+2024,Vacuum Cleaner,3,145.37,100.16,254,SupplierA,False
+2025,Bedding Set,3,284.11,135.4,494,SupplierB,False
+2026,Kitchen Knife Set,3,179.16,107.23,144,SupplierD,True
+2027,Non-stick Pan,3,265.87,184.4,240,SupplierC,True
+2028,Storage Containers,3,12.36,6.33,68,SupplierC,False
+2029,Desk Lamp,3,231.51,93.82,205,SupplierA,True
+2030,Throw Pillow,3,172.92,81.83,147,SupplierA,False
+2031,Fiction Novel,4,156.22,101.43,143,SupplierA,False
+2032,Cookbook,4,292.76,193.04,406,SupplierC,True
+2033,Self-Help Book,4,282.29,178.0,101,SupplierD,True
+2034,Science Textbook,4,21.66,9.4,365,SupplierC,False
+2035,Children Storybook,4,160.6,102.57,457,SupplierB,False
+2036,Biography,4,280.09,189.23,201,SupplierC,True
+2037,Mystery Thriller,4,107.54,62.39,272,SupplierD,True
+2038,Poetry Collection,4,96.93,66.13,188,SupplierC,False
+2039,History Book,4,294.16,190.63,407,SupplierA,True
+2040,Travel Guide,4,147.62,88.59,400,SupplierB,False
+2041,Yoga Mat,5,179.21,102.72,322,SupplierD,False
+2042,Dumbbell Set,5,248.27,125.27,293,SupplierA,False
+2043,Resistance Bands,5,15.48,6.93,77,SupplierD,False
+2044,Tennis Racket,5,129.0,75.01,471,SupplierD,False
+2045,Basketball,5,214.66,106.35,287,SupplierC,False
+2046,Cycling Helmet,5,162.38,107.16,88,SupplierD,True
+2047,Running Shorts,5,109.26,76.26,395,SupplierC,True
+2048,Water Bottle,5,150.4,94.11,142,SupplierC,False
+2049,Fitness Tracker,5,283.02,120.89,394,SupplierC,False
+2050,Jump Rope,5,210.16,102.27,245,SupplierC,True
+2051,Face Moisturizer,6,280.76,121.49,140,SupplierC,False
+2052,Shampoo,6,176.3,104.93,458,SupplierD,False
+2053,Lipstick,6,286.83,180.58,148,SupplierA,False
+2054,Perfume,6,287.03,194.52,473,SupplierD,False
+2055,Sunscreen SPF50,6,226.72,120.49,423,SupplierC,True
+2056,Hair Dryer,6,211.88,142.05,315,SupplierB,False
+2057,Makeup Brush Set,6,24.71,16.39,115,SupplierB,False
+2058,Body Lotion,6,39.05,19.34,241,SupplierA,False
+2059,Nail Polish,6,11.49,7.59,475,SupplierB,False
+2060,Face Mask Pack,6,199.33,102.2,243,SupplierD,False
+2061,Building Blocks,7,229.2,112.09,146,SupplierA,False
+2062,Action Figure,7,199.16,118.44,378,SupplierA,False
+2063,Board Game,7,131.18,65.4,478,SupplierA,False
+2064,Puzzle 1000pc,7,238.5,140.49,383,SupplierC,False
+2065,Remote Control Car,7,12.68,7.39,54,SupplierC,False
+2066,Doll House,7,141.75,80.66,268,SupplierD,False
+2067,Educational Toy,7,256.8,132.03,98,SupplierA,False
+2068,Stuffed Animal,7,57.11,32.24,131,SupplierB,False
+2069,Art Set,7,223.61,129.46,290,SupplierB,False
+2070,Card Game,7,187.17,105.51,207,SupplierD,True

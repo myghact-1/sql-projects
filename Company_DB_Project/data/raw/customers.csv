@@ -1,0 +1,201 @@
+customer_id,first_name,last_name,email,phone,city,state,signup_date,customer_segment,is_active
+5001,Laura,Campbell,customer5001@email.com,726-944-1018,San Diego,CA,2022-05-24,Bronze,True
+5002,Kimberly,Nguyen,customer5002@email.com,873-990-9889,Portland,OR,2024-06-23,Gold,False
+5003,Ashley,Carter,customer5003@email.com,673-523-1888,Nashville,TN,2018-08-24,Bronze,True
+5004,Emily,King,customer5004@email.com,392-630-6927,Boston,MA,2023-05-24,Silver,True
+5005,Eric,Hill,customer5005@email.com,837-874-9167,Houston,TX,2018-11-30,Bronze,True
+5006,Gary,Jackson,customer5006@email.com,840-552-1845,Las Vegas,NV,2023-03-24,Bronze,False
+5007,Donald,Miller,customer5007@email.com,408-373-9998,Denver,CO,2019-01-11,Bronze,True
+5008,Emily,Gonzalez,customer5008@email.com,334-394-8178,Portland,OR,2021-03-06,Gold,False
+5009,Jeffrey,Jackson,customer5009@email.com,915-596-2989,Las Vegas,NV,2022-04-20,Gold,True
+5010,Elizabeth,Anderson,customer5010@email.com,229-745-4920,Austin,TX,2021-08-12,Gold,True
+5011,Andrew,White,customer5011@email.com,926-262-6091,Phoenix,AZ,2023-01-30,Bronze,True
+5012,Donald,Lopez,customer5012@email.com,764-114-7684,Los Angeles,CA,2021-10-04,Silver,True
+5013,Paul,Martin,,295-330-2858,Jacksonville,FL,2020-05-22,Bronze,True
+5014,Kevin,Smith,customer5014@email.com,672-220-3522,Seattle,WA,2021-06-06,Bronze,True
+5015,Kenneth,Rivera,customer5015@email.com,710-833-5781,Austin,TX,2024-05-06,Gold,True
+5016,Anna,Wright,customer5016@email.com,721-822-5479,Boston,MA,2023-01-26,Bronze,True
+5017,David,Rodriguez,customer5017@email.com,625-954-8905,Philadelphia,PA,2021-08-07,Bronze,True
+5018,Sarah,Moore,customer5018@email.com,683-349-8483,Las Vegas,NV,2019-12-26,Bronze,True
+5019,Karen,Williams,,764-248-7284,Nashville,TN,2023-08-15,Bronze,False
+5020,Sandra,Brown,customer5020@email.com,395-713-9327,Charlotte,NC,2018-03-19,Bronze,True
+5021,Deborah,Scott,customer5021@email.com,964-239-2143,Detroit,MI,2018-05-12,Silver,False
+5022,Karen,Jackson,customer5022@email.com,482-891-7798,San Francisco,CA,2019-08-24,Silver,False
+5023,Margaret,Hall,customer5023@email.com,548-906-9318,Boston,MA,2022-11-08,Gold,True
+5024,William,Rodriguez,customer5024@email.com,473-940-1042,Philadelphia,PA,2020-12-01,Gold,True
+5025,Rebecca,Green,customer5025@email.com,489-843-5891,Phoenix,AZ,2023-11-07,Bronze,True
+5026,Edward,Carter,customer5026@email.com,801-693-9022,Chicago,IL,2024-09-15,Bronze,True
+5027,Kevin,Young,customer5027@email.com,352-557-9824,Detroit,MI,2024-06-01,Bronze,True
+5028,Anna,Miller,customer5028@email.com,695-453-6446,Las Vegas,NV,2023-02-07,Silver,True
+5029,Cynthia,Smith,customer5029@email.com,765-881-9903,Charlotte,NC,2021-08-11,Bronze,True
+5030,Rebecca,Torres,customer5030@email.com,586-566-6272,Los Angeles,CA,2019-09-08,Silver,True
+5031,Linda,Jackson,customer5031@email.com,393-814-4912,San Jose,CA,2024-10-05,Silver,True
+5032,Anthony,Walker,customer5032@email.com,785-492-4826,San Antonio,TX,2023-03-04,Silver,True
+5033,Rebecca,Walker,customer5033@email.com,994-520-1715,Los Angeles,CA,2020-11-12,Silver,True
+5034,Deborah,Lewis,customer5034@email.com,525-862-8749,San Antonio,TX,2019-07-29,Bronze,True
+5035,John,Perez,customer5035@email.com,922-930-7246,Los Angeles,CA,2023-12-31,Platinum,True
+5036,Timothy,Lopez,customer5036@email.com,595-779-3492,Austin,TX,2020-09-19,Gold,True
+5037,Kathleen,Brown,customer5037@email.com,707-137-3068,San Jose,CA,2024-01-02,Bronze,True
+5038,James,Taylor,customer5038@email.com,714-704-6439,Indianapolis,IN,2021-06-02,Gold,True
+5039,Amanda,Walker,customer5039@email.com,302-995-8213,Fort Worth,TX,2019-05-18,Silver,False
+5040,Joshua,Davis,customer5040@email.com,302-638-8486,Seattle,WA,2023-06-21,Gold,True
+5041,Deborah,Jones,customer5041@email.com,215-839-3361,San Francisco,CA,2020-03-31,Gold,True
+5042,Rebecca,Sanchez,customer5042@email.com,619-991-3529,Dallas,TX,2023-11-22,Silver,True
+5043,Jonathan,Young,customer5043@email.com,276-580-5342,Los Angeles,CA,2023-05-25,Bronze,True
+5044,Anna,Jones,customer5044@email.com,546-738-7512,Las Vegas,NV,2018-07-17,Bronze,True
+5045,Mark,Torres,customer5045@email.com,865-182-6383,Boston,MA,2022-07-28,Silver,True
+5046,Gary,Green,customer5046@email.com,890-979-9742,San Antonio,TX,2024-09-04,Silver,True
+5047,Mark,Baker,customer5047@email.com,589-424-8994,San Jose,CA,2021-04-17,Bronze,True
+5048,Paul,Brown,customer5048@email.com,754-136-2121,Jacksonville,FL,2022-01-11,Bronze,True
+5049,Sharon,Martinez,customer5049@email.com,440-746-5708,Las Vegas,NV,2022-07-05,Gold,True
+5050,Gary,Martinez,customer5050@email.com,432-864-2480,Los Angeles,CA,2022-08-20,Platinum,True
+5051,Patricia,Torres,customer5051@email.com,644-200-2646,Boston,MA,2021-08-05,Silver,True
+5052,Deborah,Martin,,654-270-5906,Austin,TX,2023-07-29,Bronze,True
+5053,Carol,Garcia,customer5053@email.com,229-147-6314,Dallas,TX,2019-04-23,Bronze,True
+5054,Stephanie,Thomas,customer5054@email.com,257-400-6873,Houston,TX,2021-06-08,Bronze,True
+5055,Nancy,Davis,customer5055@email.com,583-541-3385,Jacksonville,FL,2020-07-11,Platinum,True
+5056,Cynthia,Scott,customer5056@email.com,450-643-7751,Columbus,OH,2019-02-24,Bronze,True
+5057,Thomas,Carter,customer5057@email.com,779-798-3950,Fort Worth,TX,2024-01-14,Silver,True
+5058,Jonathan,Clark,customer5058@email.com,374-279-2293,Portland,OR,2021-01-25,Bronze,True
+5059,Patricia,Hill,customer5059@email.com,824-991-7267,Charlotte,NC,2020-08-08,Silver,True
+5060,Ronald,Hill,customer5060@email.com,834-799-4945,Fort Worth,TX,2024-05-25,Silver,True
+5061,Patricia,Flores,customer5061@email.com,709-697-3344,Austin,TX,2021-07-01,Gold,True
+5062,David,Anderson,customer5062@email.com,437-572-5161,Philadelphia,PA,2024-02-22,Bronze,True
+5063,Jason,Roberts,customer5063@email.com,670-361-1153,San Francisco,CA,2023-02-01,Bronze,True
+5064,Sarah,King,customer5064@email.com,676-394-9955,Detroit,MI,2019-06-01,Bronze,True
+5065,Cynthia,Harris,customer5065@email.com,361-175-8237,San Francisco,CA,2022-07-17,Platinum,True
+5066,Lisa,Lewis,customer5066@email.com,553-701-5901,Jacksonville,FL,2023-02-09,Gold,True
+5067,Michael,Lewis,customer5067@email.com,854-534-5097,Indianapolis,IN,2021-02-15,Silver,True
+5068,Kimberly,Martin,customer5068@email.com,667-965-5949,Dallas,TX,2023-04-17,Silver,True
+5069,Timothy,Nguyen,customer5069@email.com,403-493-8916,Chicago,IL,2020-03-25,Silver,True
+5070,Dorothy,Ramirez,,309-342-7248,Portland,OR,2024-03-25,Bronze,True
+5071,Margaret,Martin,customer5071@email.com,785-467-5847,Columbus,OH,2023-03-16,Platinum,True
+5072,Ryan,Torres,customer5072@email.com,916-402-1359,Chicago,IL,2024-03-13,Silver,True
+5073,Dorothy,Flores,customer5073@email.com,874-505-5497,Columbus,OH,2023-08-25,Bronze,True
+5074,Carol,Brown,customer5074@email.com,208-679-1803,Washington,DC,2023-09-26,Silver,True
+5075,Timothy,Flores,customer5075@email.com,820-863-9138,Philadelphia,PA,2024-06-29,Bronze,True
+5076,Emily,Mitchell,customer5076@email.com,493-894-4770,Seattle,WA,2018-05-10,Bronze,True
+5077,Rebecca,Miller,customer5077@email.com,821-921-6772,San Jose,CA,2018-04-05,Gold,True
+5078,Steven,Carter,customer5078@email.com,424-751-4115,Austin,TX,2023-05-10,Bronze,True
+5079,David,Wilson,customer5079@email.com,835-356-3240,Houston,TX,2020-03-04,Silver,True
+5080,Jacob,Green,customer5080@email.com,843-199-1645,Chicago,IL,2023-01-09,Bronze,True
+5081,John,Wilson,customer5081@email.com,516-907-8222,Austin,TX,2023-10-18,Bronze,True
+5082,Anna,Taylor,customer5082@email.com,234-693-6977,Nashville,TN,2022-08-11,Bronze,True
+5083,Michael,Nelson,customer5083@email.com,949-234-2476,San Jose,CA,2018-01-11,Bronze,True
+5084,Brian,Garcia,customer5084@email.com,502-434-7807,San Jose,CA,2023-02-09,Gold,True
+5085,Mark,Hernandez,customer5085@email.com,379-305-3165,Charlotte,NC,2019-12-13,Bronze,True
+5086,William,Thomas,customer5086@email.com,752-997-6994,Washington,DC,2023-09-02,Silver,True
+5087,Jennifer,Lopez,customer5087@email.com,743-613-5465,Detroit,MI,2020-03-25,Silver,True
+5088,Patricia,Scott,customer5088@email.com,368-363-8894,Columbus,OH,2018-12-12,Silver,True
+5089,Ashley,Jones,customer5089@email.com,502-864-6549,Philadelphia,PA,2024-06-07,Platinum,False
+5090,Betty,Hernandez,customer5090@email.com,317-579-2233,Detroit,MI,2018-12-29,Gold,True
+5091,John,Smith,customer5091@email.com,344-872-4696,Charlotte,NC,2024-09-09,Bronze,True
+5092,Karen,Clark,customer5092@email.com,892-841-7511,Jacksonville,FL,2024-03-15,Bronze,True
+5093,Donald,Lewis,customer5093@email.com,770-474-2479,Charlotte,NC,2023-12-29,Bronze,True
+5094,Thomas,Hall,customer5094@email.com,604-114-5332,Los Angeles,CA,2020-09-11,Silver,True
+5095,Jacob,Hill,customer5095@email.com,749-226-8451,Portland,OR,2022-06-28,Bronze,True
+5096,Joseph,Walker,customer5096@email.com,577-788-5295,Jacksonville,FL,2020-04-07,Silver,True
+5097,Margaret,Jackson,customer5097@email.com,798-490-7086,Washington,DC,2018-12-22,Silver,True
+5098,Cynthia,Williams,customer5098@email.com,310-791-4830,Columbus,OH,2021-09-09,Bronze,False
+5099,Steven,Anderson,customer5099@email.com,682-125-6374,Dallas,TX,2023-02-07,Gold,True
+5100,Melissa,Jackson,customer5100@email.com,824-326-2035,Boston,MA,2018-05-07,Bronze,True
+5101,Nancy,Rivera,customer5101@email.com,850-943-8606,Los Angeles,CA,2019-08-27,Bronze,False
+5102,Joseph,Jackson,customer5102@email.com,917-409-7689,Chicago,IL,2023-04-13,Gold,True
+5103,Christopher,Hall,customer5103@email.com,319-243-1742,Nashville,TN,2020-10-10,Silver,False
+5104,Michelle,Robinson,customer5104@email.com,238-411-9071,Boston,MA,2018-02-20,Silver,True
+5105,Susan,Jones,customer5105@email.com,318-199-4846,Fort Worth,TX,2021-12-01,Silver,True
+5106,Patricia,Baker,customer5106@email.com,750-238-7367,Jacksonville,FL,2022-11-28,Bronze,True
+5107,Michelle,Anderson,customer5107@email.com,664-479-9850,Indianapolis,IN,2022-06-25,Gold,True
+5108,Timothy,Taylor,customer5108@email.com,629-701-3531,Portland,OR,2022-07-04,Gold,True
+5109,Ronald,Green,customer5109@email.com,624-770-2622,Nashville,TN,2024-10-03,Silver,True
+5110,Betty,Nguyen,customer5110@email.com,701-730-7686,Philadelphia,PA,2021-04-20,Bronze,True
+5111,Elizabeth,Nelson,customer5111@email.com,486-133-7070,New York,NY,2023-01-29,Silver,True
+5112,Ashley,Gonzalez,customer5112@email.com,422-554-8285,Phoenix,AZ,2019-07-21,Bronze,True
+5113,Susan,Ramirez,customer5113@email.com,441-975-6942,Washington,DC,2024-08-15,Bronze,True
+5114,Joshua,Davis,customer5114@email.com,301-802-7018,Nashville,TN,2020-07-24,Platinum,False
+5115,Jessica,Wright,customer5115@email.com,757-760-6876,Charlotte,NC,2023-04-19,Bronze,False
+5116,Jennifer,Anderson,customer5116@email.com,262-507-5520,Los Angeles,CA,2021-08-25,Platinum,True
+5117,Brian,Adams,customer5117@email.com,394-225-8450,Phoenix,AZ,2018-07-21,Silver,True
+5118,Jonathan,Martinez,customer5118@email.com,293-778-4475,Chicago,IL,2024-06-18,Bronze,True
+5119,Jason,Moore,customer5119@email.com,857-754-1349,San Diego,CA,2018-04-27,Silver,True
+5120,Melissa,Martinez,customer5120@email.com,251-905-6464,Las Vegas,NV,2020-07-25,Gold,True
+5121,William,Jones,customer5121@email.com,449-228-4362,Boston,MA,2019-07-29,Gold,True
+5122,Nicholas,Brown,customer5122@email.com,270-949-4394,Jacksonville,FL,2024-04-10,Gold,True
+5123,Carol,Hernandez,customer5123@email.com,800-321-4817,Jacksonville,FL,2019-06-21,Silver,True
+5124,Mary,Martin,customer5124@email.com,536-892-3417,Fort Worth,TX,2022-06-14,Silver,True
+5125,Rebecca,Hill,customer5125@email.com,810-102-5542,Denver,CO,2023-10-24,Gold,True
+5126,Gary,Mitchell,customer5126@email.com,348-233-9850,Los Angeles,CA,2019-01-21,Bronze,True
+5127,Susan,Torres,customer5127@email.com,456-917-3858,Washington,DC,2019-04-20,Silver,False
+5128,Sharon,Jackson,customer5128@email.com,312-776-1422,Phoenix,AZ,2019-02-22,Bronze,True
+5129,George,Lewis,customer5129@email.com,334-115-6869,Nashville,TN,2024-07-22,Platinum,True
+5130,Ryan,Davis,customer5130@email.com,443-702-6304,Charlotte,NC,2020-07-27,Platinum,True
+5131,Karen,Robinson,customer5131@email.com,216-278-5347,Jacksonville,FL,2020-08-12,Bronze,True
+5132,Sharon,Hall,customer5132@email.com,253-229-7897,Jacksonville,FL,2020-05-25,Gold,True
+5133,Daniel,Martin,customer5133@email.com,738-216-2041,Charlotte,NC,2020-02-02,Platinum,True
+5134,Eric,Hall,customer5134@email.com,687-559-6931,Las Vegas,NV,2021-04-17,Bronze,True
+5135,Paul,Sanchez,customer5135@email.com,725-707-2786,Chicago,IL,2021-04-20,Silver,True
+5136,Jonathan,Moore,customer5136@email.com,662-615-4629,Denver,CO,2019-10-26,Platinum,True
+5137,Kathleen,Allen,customer5137@email.com,829-144-9543,Phoenix,AZ,2018-01-25,Bronze,True
+5138,Cynthia,Wright,,508-569-1510,Indianapolis,IN,2023-06-14,Silver,False
+5139,Sharon,Young,,262-590-7580,Jacksonville,FL,2021-04-18,Bronze,True
+5140,Paul,Lewis,customer5140@email.com,636-802-2768,Fort Worth,TX,2019-12-11,Platinum,True
+5141,Dorothy,Garcia,customer5141@email.com,702-829-8267,Austin,TX,2023-02-23,Platinum,False
+5142,Ashley,Hill,customer5142@email.com,275-182-6277,Boston,MA,2021-03-30,Platinum,True
+5143,Barbara,Williams,customer5143@email.com,822-251-2076,Dallas,TX,2024-02-03,Silver,True
+5144,Emily,Ramirez,customer5144@email.com,329-381-9984,San Diego,CA,2018-10-12,Gold,True
+5145,Laura,Mitchell,customer5145@email.com,929-432-7240,Houston,TX,2018-03-04,Gold,True
+5146,Ashley,Lee,customer5146@email.com,811-643-5831,New York,NY,2020-09-29,Bronze,False
+5147,Cynthia,Hill,customer5147@email.com,664-617-8048,Portland,OR,2019-10-24,Gold,True
+5148,Timothy,Taylor,customer5148@email.com,301-912-2874,Philadelphia,PA,2024-01-13,Bronze,True
+5149,Carol,Johnson,customer5149@email.com,870-766-4522,San Francisco,CA,2022-02-01,Silver,True
+5150,Patricia,Garcia,customer5150@email.com,640-562-4743,Indianapolis,IN,2020-08-24,Bronze,True
+5151,Amy,Anderson,customer5151@email.com,623-447-8430,Fort Worth,TX,2020-04-28,Bronze,True
+5152,Dorothy,Baker,customer5152@email.com,608-525-2557,Seattle,WA,2021-01-12,Bronze,True
+5153,Lisa,Torres,customer5153@email.com,520-537-6120,Houston,TX,2019-11-20,Silver,True
+5154,Gary,Nguyen,customer5154@email.com,881-361-7132,Dallas,TX,2018-05-28,Bronze,True
+5155,Margaret,Johnson,customer5155@email.com,356-803-8770,Las Vegas,NV,2018-12-08,Gold,True
+5156,Amanda,Carter,customer5156@email.com,268-193-2398,Dallas,TX,2020-12-22,Bronze,False
+5157,Kimberly,Baker,customer5157@email.com,295-542-2582,Detroit,MI,2022-09-21,Bronze,True
+5158,Carol,Moore,customer5158@email.com,962-856-7105,Charlotte,NC,2021-10-15,Silver,True
+5159,Emily,Torres,customer5159@email.com,333-669-1982,San Antonio,TX,2018-11-23,Gold,True
+5160,Emily,Williams,customer5160@email.com,800-675-6400,Washington,DC,2022-11-28,Bronze,True
+5161,Mary,Carter,customer5161@email.com,886-225-7730,San Jose,CA,2022-10-26,Silver,True
+5162,Eric,Carter,customer5162@email.com,562-994-7929,Detroit,MI,2020-09-16,Gold,True
+5163,Matthew,Lopez,customer5163@email.com,938-152-5712,San Francisco,CA,2024-03-12,Silver,True
+5164,David,Walker,customer5164@email.com,814-419-6761,San Antonio,TX,2024-10-18,Bronze,True
+5165,Donald,King,customer5165@email.com,306-691-9313,Houston,TX,2020-08-09,Bronze,True
+5166,Edward,Adams,customer5166@email.com,417-258-8900,Phoenix,AZ,2019-12-24,Gold,False
+5167,Gary,Lewis,customer5167@email.com,429-967-2773,Chicago,IL,2023-09-11,Bronze,True
+5168,Donald,Moore,customer5168@email.com,558-965-7022,Charlotte,NC,2024-05-21,Gold,True
+5169,Jacob,Lopez,customer5169@email.com,317-880-5564,Philadelphia,PA,2019-03-05,Silver,True
+5170,Gary,Nguyen,customer5170@email.com,787-331-8030,Detroit,MI,2022-02-09,Platinum,True
+5171,Laura,Ramirez,customer5171@email.com,774-885-1430,Charlotte,NC,2018-10-13,Gold,True
+5172,John,Green,customer5172@email.com,823-773-5381,Chicago,IL,2023-08-28,Platinum,True
+5173,Barbara,Young,customer5173@email.com,229-284-5477,Nashville,TN,2020-02-08,Bronze,True
+5174,Donna,Garcia,customer5174@email.com,919-880-6062,Austin,TX,2021-10-26,Gold,True
+5175,Mark,Walker,customer5175@email.com,547-459-1100,Nashville,TN,2018-07-13,Silver,True
+5176,Stephanie,Thompson,customer5176@email.com,385-990-3347,Jacksonville,FL,2020-09-14,Silver,True
+5177,Ashley,Clark,customer5177@email.com,779-773-7566,Detroit,MI,2021-02-10,Silver,True
+5178,Michelle,Perez,customer5178@email.com,271-245-1502,Chicago,IL,2023-12-02,Gold,True
+5179,Melissa,Lee,customer5179@email.com,293-864-9691,Seattle,WA,2022-08-29,Platinum,True
+5180,Jacob,Nelson,customer5180@email.com,420-485-7878,Seattle,WA,2020-08-04,Gold,True
+5181,Shirley,Miller,,664-449-3578,San Jose,CA,2020-04-10,Silver,True
+5182,Brian,Hernandez,customer5182@email.com,578-419-6314,San Jose,CA,2023-04-05,Silver,True
+5183,Jason,Perez,customer5183@email.com,995-681-2391,Philadelphia,PA,2018-02-24,Gold,True
+5184,Kevin,Clark,customer5184@email.com,253-259-3579,Detroit,MI,2020-03-10,Bronze,True
+5185,Amanda,Hall,customer5185@email.com,972-732-1815,Detroit,MI,2020-02-17,Bronze,True
+5186,Ryan,Young,customer5186@email.com,890-183-5458,Detroit,MI,2022-01-21,Bronze,True
+5187,Paul,Jackson,customer5187@email.com,653-777-7947,Boston,MA,2023-03-17,Bronze,True
+5188,Michelle,Nelson,customer5188@email.com,697-721-8242,Philadelphia,PA,2024-01-19,Bronze,True
+5189,Steven,Sanchez,customer5189@email.com,624-379-4531,Jacksonville,FL,2023-11-05,Bronze,True
+5190,Sandra,Carter,customer5190@email.com,973-624-2864,Indianapolis,IN,2018-02-24,Bronze,True
+5191,Jessica,Scott,customer5191@email.com,553-540-2816,San Diego,CA,2022-12-29,Bronze,True
+5192,Matthew,Williams,customer5192@email.com,490-794-8972,Houston,TX,2021-04-16,Platinum,True
+5193,Kenneth,Robinson,customer5193@email.com,739-783-6053,San Antonio,TX,2020-04-12,Silver,True
+5194,Jessica,Garcia,customer5194@email.com,246-325-7475,Phoenix,AZ,2018-11-09,Bronze,True
+5195,Jonathan,Lee,customer5195@email.com,813-156-1125,San Diego,CA,2023-02-02,Silver,False
+5196,Lisa,Taylor,,409-408-4460,San Francisco,CA,2023-07-01,Bronze,True
+5197,Matthew,Lee,customer5197@email.com,985-240-5186,New York,NY,2023-06-30,Platinum,True
+5198,Margaret,Davis,customer5198@email.com,496-435-2965,Jacksonville,FL,2024-10-26,Gold,True
+5199,Kathleen,Roberts,customer5199@email.com,207-609-8055,Seattle,WA,2022-11-26,Bronze,True
+5200,Emily,Sanchez,customer5200@email.com,379-232-7229,Denver,CO,2018-11-24,Silver,True

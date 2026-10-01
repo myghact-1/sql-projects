@@ -1,0 +1,1001 @@
+product_id,product_name,category,sub_category,brand,unit_cost,unit_price,supplier,stock_qty,launch_date
+P00001,Nova Hoodie,Fashion,Hoodie,Nova,4746.0,9482.49,Local Vendor,73.0,2019-05-07
+P00002,UrbanNest Air Fryer,HOME & KITCHEN,Air Fryer,UrbanNest,2083.01,4294.44,Supplier B,,2019-09-01
+P00003,CasaLite T-Shirt,Fashion,T-SHIRT,CasaLite,7400.4,9674.25,Local Vendor,-1.0,2024-10-15
+P00004,DailyNeeds Self Help Book,Books,self help book,DailyNeeds,6725.48,14291.92,Supplier C,9999.0,2020-04-22
+P00005,CasaLite Webcam,ELECTRONICS,Webcam,CASALITE,17691.81,28435.01,Supplier B,9999.0,2025-12-24
+P00006,ProGear Data Analytics Book,Books,Data Analytics Book,ProGear,7129.71,9014.15,Supplier B,-1.0,2023-09-29
+P00007,TrendX Fiction Novel,Books,Fiction Novel,TRENDX,14787.82,26778.06,Supplier B,-1.0,2024-12-06
+P00008,Zenith Sneakers,fashion,Sneakers,Zenith,14454.4,26930.86,Supplier A,9999.0,2019-03-04
+P00009,EverBuy Business Book,Books,Business Book,EverBuy,10536.33,19623.8,Supplier B,-1.0,2025-03-01
+P00010,dailyneeds cricket bat,Sports,Cricket Bat,DailyNeeds,9686.19,12614.52,Supplier C,-1.0,2022-06-27
+P00011,Apex T-Shirt,Fashion,T-Shirt,Apex,8731.42,12054.67,Supplier D,9999.0,2025-11-11
+P00012,dailyneeds data analytics book,Books,Data Analytics Book,dailyneeds,6628.51,10920.48,Local Vendor,-1.0,2020-03-25
+P00013,MobiMax Cookbook,Books,Cookbook,MobiMax,2369.52,4873.63,Supplier D,9999.0,2021-01-24
+P00014,vivid moisturizer,Beauty,moisturizer,Vivid,10657.96,16147.56,Local Vendor,9999.0,2022-04-16
+P00015,EverBuy Running Shoes,Sports,Running Shoes, EverBuy ,17705.73,29872.44,Supplier C,9999.0,2021-05-31
+P00016,Apex Dumbbells,sports,Dumbbells,Apex,9664.1,11789.25,Supplier D,-1.0,2022-03-17
+P00017,MobiMax Watch,Fashion,Watch,MobiMax,6963.86,10689.2,Supplier B,-1.0,2024-09-16
+P00018,MobiMax Non-stick Pan,Home & Kitchen,Non-stick Pan,MobiMax,16407.72,22988.09,Supplier A,134.0,2025-10-21
+P00019,Zenith Cricket Bat,Sports,Cricket Bat,zenith,12498.01,17386.66,Supplier B,18.0,2019-08-10
+P00020,Zenith Sneakers,Fashion,Sneakers,Zenith,16008.68,24172.22,Supplier B,,2021-02-11
+P00021,MobiMax Face Wash,Beauty,Face Wash, MobiMax ,8541.7,12654.32,Supplier A,-1.0,2021-06-20
+P00022,CasaLite Fiction Novel,Books,Fiction Novel,CasaLite,13765.55,22317.19,Supplier B,,2021-05-26
+P00023, Apex Sunscreen ,Beauty,Sunscreen,Apex,2151.85,3254.1,Supplier A,33.0,2023-09-08
+P00024,UrbanNest Sneakers,Fashion,Sneakers,UrbanNest,9820.71,12711.2,Supplier D,-1.0,2020-09-06
+P00025,MobiMax Watch,Fashion,Watch,MobiMax,2473.39,3126.63,Supplier A,31.0,2019-09-03
+P00026,Nova Running Shoes,Sports,RUNNING SHOES,Nova,8222.75,14890.46,Supplier A,9999.0,2023-03-08
+P00027,CasaLite Moisturizer,Beauty,Moisturizer,CasaLite,10278.48,15270.16,Supplier B,-1.0,2020-08-10
+P00028,MobiMax Yoga Mat,Sports,YOGA MAT,MobiMax,8071.83,10345.53,Supplier C,9999.0,2021-09-29
+P00029,ProGear Coffee Maker,Home & Kitchen,Coffee Maker,ProGear,12424.31,16267.06,Supplier A,9999.0,2026-01-21
+P00030,Nova Business Book,Books,Business Book,Nova,16804.1,23182.87,Supplier A,9999.0,2024-11-19
+P00031,Orion Sneakers,FASHION,Sneakers, Orion ,7885.31,9844.42,Supplier A,237.0,2019-07-27
+P00032,UrbanNest Moisturizer, Beauty ,Moisturizer,UrbanNest,10429.77,20938.96,Supplier D,,2022-05-06
+P00033,Orion Coffee Maker,Home & Kitchen,Coffee Maker,,9175.86,14657.55,Supplier C,30.0,2024-08-19
+P00034,DailyNeeds Resistance Bands,Sports,resistance bands, DailyNeeds ,10725.69,23156.0,Supplier A,-1.0,2023-09-01
+P00035,UrbanNest Business Book,Books,Business Book,UrbanNest,11558.33,18226.71,Local Vendor,9999.0,2020-05-29
+P00036, Nova Yoga Mat ,SPORTS,yoga mat,Nova,13368.53,20425.7,Supplier D,9999.0,2022-03-09
+P00037,MobiMax Business Book,BOOKS,Business Book,MobiMax,11120.15,14190.74,Supplier C,9999.0,2024-11-08
+P00038,Vivid Sunscreen,beauty,Sunscreen,Vivid,9754.79,18292.77,Supplier A,9999.0,2022-08-12
+P00039,Vivid T-Shirt,Fashion,T-Shirt,Vivid,2909.49,3840.2,Supplier C,,2021-08-07
+P00040,Zenith Cookbook,books,Cookbook,Zenith,7454.54,14753.81,Supplier D,,2022-01-12
+P00041,TRENDX HOODIE,Fashion,Hoodie,TrendX,883.14,1114.4,Supplier D,,2022-12-13
+P00042,Apex Non-stick Pan,home & kitchen,Non-stick Pan,Apex,14252.97,28507.39,Local Vendor,9999.0,2022-08-16
+P00043,CasaLite Wireless Earbuds,Electronics,WIRELESS EARBUDS,CasaLite,4508.93,8474.59,Local Vendor,211.0,2022-11-27
+P00044,TrendX Sunglasses,Fashion,Sunglasses,TrendX,11999.44,23251.27,Supplier C,127.0,2022-05-19
+P00045,NOVA WATER BOTTLE,Home & Kitchen,WATER BOTTLE,Nova,15925.79,25480.84,Supplier B,9999.0,2019-01-23
+P00046,UrbanNest USB-C Hub,Electronics,USB-C Hub,UrbanNest,5926.55,11933.57,,9999.0,2022-10-10
+P00047,MobiMax Perfume,Beauty,Perfume,MobiMax,17623.89,27853.82,,100.0,2023-07-26
+P00048,Zenith Jeans,Fashion,Jeans,Zenith,2201.44,4157.78,Supplier D,1.0,2023-10-28
+P00049,CasaLite Business Book,Books,Business Book,casalite,14624.4,24229.64,Supplier B,,2025-01-18
+P00050, Orion Cookbook ,Books,Cookbook,Orion,22689.25,28828.14,Local Vendor,,2025-06-11
+P00051,ProGear Self Help Book, Books ,Self Help Book,ProGear,9082.11,15005.14,Supplier B,93.0,2020-03-14
+P00052,Vivid Watch,Fashion,Watch,Vivid,6513.25,13854.27,Supplier A,,2020-01-12
+P00053,Vivid Moisturizer,Beauty,Moisturizer,Vivid,9459.41,20667.3,,,2021-07-21
+P00054,Nova Fiction Novel,Books,Fiction Novel,Nova,8629.91,15032.71,Supplier B,-1.0,2024-12-13
+P00055,Vivid Storage Box,Home & Kitchen,Storage Box,Vivid,11600.17,25488.38,Supplier D,-1.0,2019-02-04
+P00056, EverBuy Resistance Bands ,Sports,Resistance Bands, EverBuy ,6518.49,14316.5,Supplier D,,2024-02-01
+P00057,Nova Sneakers,FASHION,Sneakers,NOVA,7244.26,11774.05,Supplier B,9999.0,2024-06-19
+P00058,Vivid Smartwatch,electronics,SMARTWATCH,Vivid,9225.6,18751.7,Supplier D,115.0,2020-12-29
+P00059,CasaLite Business Book,BOOKS,Business Book,CasaLite,12426.01,15700.2,Supplier D,-1.0,2020-03-09
+P00060,Nova Cookbook,Books,Cookbook,Nova,11097.13,20934.46,Supplier D,,2025-06-10
+P00061,Orion Shampoo,Beauty,Shampoo,Orion,12842.72,18691.19,Supplier C,,2025-06-24
+P00062,ProGear Water Bottle,Home & Kitchen,Water Bottle,ProGear,19503.03,26479.54,Supplier C,37.0,2022-10-12
+P00063,CasaLite Cookbook,Books,Cookbook,CasaLite,1070.31,1320.0,Local Vendor,-1.0,2026-01-13
+P00064,DailyNeeds Moisturizer,Beauty,Moisturizer,DailyNeeds,4678.71,8968.44,Local Vendor,,2026-02-15
+P00065,DailyNeeds Air Fryer,Home & Kitchen, Air Fryer ,DailyNeeds,22073.14,27533.09,Supplier A,,2023-04-16
+P00066,casalite hair dryer,Beauty,Hair Dryer,CasaLite,4660.53,5790.88,Supplier C,-1.0,2024-06-28
+P00067,NOVA RUNNING SHOES,Sports,Running Shoes,Nova,12019.99,17708.48,Supplier D,,2023-12-16
+P00068,CasaLite USB-C Hub,Electronics,USB-C HUB,CasaLite,5683.95,9237.93,Supplier C,-1.0,2025-05-01
+P00069,EverBuy Dumbbells,Sports,Dumbbells,EverBuy,17100.07,23973.31,Supplier A,-1.0,2024-12-14
+P00070,TrendX Sunscreen,Beauty,Sunscreen,TrendX,8281.02,14978.93,Supplier C,208.0,2023-09-19
+P00071,nova smartwatch,electronics,Smartwatch,Nova,7208.72,12712.55,Local Vendor,-1.0,2023-05-05
+P00072,EverBuy Smartwatch,Electronics,Smartwatch,EverBuy,4819.36,6771.79,Supplier B,,2024-09-27
+P00073,Apex Storage Box,home & kitchen,STORAGE BOX,APEX,18873.28,29829.95,Local Vendor,-1.0,2022-01-17
+P00074,DailyNeeds Jeans,FASHION,Jeans,DailyNeeds,13554.99,25063.63,Supplier C,-1.0,2024-08-15
+P00075,ProGear Face Wash,Beauty,Face Wash,progear,10683.76,18791.55,Supplier C,,2020-04-05
+P00076,UrbanNest Face Wash, Beauty ,Face Wash,UrbanNest,952.59,2065.99,Local Vendor,,2025-08-08
+P00077,DailyNeeds Watch,Fashion,watch,DailyNeeds,1637.29,3309.6,Supplier B,9999.0,2019-02-25
+P00078,TrendX Hoodie,Fashion,Hoodie,TrendX,8786.23,13513.41,Supplier D,-1.0,2021-11-06
+P00079,urbannest wireless earbuds,Electronics,Wireless Earbuds,UrbanNest,10592.09,17079.57,Supplier C,123.0,2024-07-08
+P00080,Apex Dumbbells,SPORTS,Dumbbells,apex,15070.19,18594.78,Supplier C,,2025-10-04
+P00081,MobiMax Running Shoes,SPORTS,running shoes,MobiMax,9358.6,12837.5,Supplier A,111.0,2024-02-10
+P00082,Apex Power Bank,Electronics,Power Bank,Apex,13422.98,26262.28,Local Vendor,9999.0,2020-11-03
+P00083,EverBuy Watch,Fashion,Watch,EverBuy,676.77,962.81,Local Vendor,,2025-05-23
+P00084,UrbanNest Shampoo,Beauty,Shampoo,UrbanNest,21229.66,29015.4,Supplier C,-1.0,2025-02-17
+P00085,Vivid Wireless Earbuds,Electronics,Wireless Earbuds,Vivid,2494.61,3451.54,Supplier B,-1.0,2021-06-06
+P00086,apex running shoes,Sports,Running Shoes,Apex,8552.16,15223.03,Supplier A,-1.0,2023-04-29
+P00087,Apex Business Book,Books,Business Book,Apex,2401.39,4290.99,Supplier C,-1.0,2019-12-16
+P00088,MobiMax Self Help Book,Books,Self Help Book,MobiMax,8098.52,12529.03,Supplier D,-1.0,2019-10-21
+P00089,Vivid Water Bottle,Home & Kitchen,Water Bottle,Vivid,22831.94,28275.33,Supplier A,-1.0,2023-01-05
+P00090,UrbanNest Jeans,Fashion,Jeans,UrbanNest,13385.76,18269.77,Supplier C,-1.0,2019-02-25
+P00091,Vivid Coffee Maker,Home & Kitchen,Coffee Maker,Vivid,7997.02,14096.7,Supplier B,-1.0,2025-10-24
+P00092,EverBuy Water Bottle,Home & Kitchen,Water Bottle,EverBuy,10909.98,21795.86,Local Vendor,9999.0,2022-08-04
+P00093,UrbanNest Running Shoes,Sports,Running Shoes, UrbanNest ,2694.72,4413.76,Supplier D,,2026-06-18
+P00094,DailyNeeds Bluetooth Speaker,Electronics,Bluetooth Speaker,dailyneeds,7933.82,10226.39,Supplier C,,2019-01-22
+P00095,TrendX Data Analytics Book,Books,Data Analytics Book,trendx,17749.71,22547.71,Supplier D,-1.0,2019-10-23
+P00096,DailyNeeds Resistance Bands,Sports,RESISTANCE BANDS,DailyNeeds,13922.76,20658.78,Supplier D,-1.0,2021-07-26
+P00097,ProGear Coffee Maker,Home & Kitchen,Coffee Maker,ProGear,1051.4,1350.22,Local Vendor,,2021-09-13
+P00098,MOBIMAX COOKBOOK,Books,Cookbook,mobimax,13311.81,19091.94,Local Vendor,-1.0,2021-06-22
+P00099,TrendX T-Shirt, Fashion ,T-Shirt,TrendX,17124.75,27078.84,Local Vendor,9999.0,2025-05-28
+P00100,Vivid Air Fryer,Home & Kitchen,Air Fryer,vivid,10777.88,18425.27,Supplier C,,2020-10-17
+P00101,EverBuy Sneakers,Fashion,Sneakers,EVERBUY,7585.26,15679.04,Local Vendor,9999.0,2021-10-03
+P00102,EverBuy Storage Box, Home & Kitchen ,Storage Box, EverBuy ,535.91,901.38,Supplier D,,2022-11-02
+P00103,DailyNeeds Non-stick Pan,HOME & KITCHEN,Non-stick Pan,DailyNeeds,7586.75,12952.84,Local Vendor,,2022-05-25
+P00104, Nova Sunglasses ,Fashion,sunglasses,Nova,9445.44,13356.53,Supplier A,9999.0,2025-01-07
+P00105,TrendX Moisturizer,Beauty,Moisturizer,TrendX,7643.55,16093.76,Local Vendor,187.0,2022-10-04
+P00106,Nova Webcam,Electronics,Webcam,Nova,4148.92,8640.87,Supplier B,94.0,2025-01-02
+P00107,MobiMax Air Fryer,Home & Kitchen,Air Fryer,MobiMax,2796.9,3631.24,Supplier B,9999.0,2019-03-11
+P00108,URBANNEST HAIR DRYER,Beauty,Hair Dryer,urbannest,17279.23,29986.78,Supplier C,3.0,2020-10-30
+P00109,TrendX Sunglasses,Fashion, Sunglasses ,TrendX,8341.19,13300.88,Supplier D,-1.0,2021-11-29
+P00110,Orion Business Book,Books,Business Book,Orion,726.47,1073.75,Supplier B,9999.0,2020-12-13
+P00111,CasaLite Backpack,Fashion,Backpack,CasaLite,9754.59,12486.65,Supplier D,,2025-09-01
+P00112,Nova Sunscreen,Beauty,Sunscreen,Nova,12985.08,27591.12,Supplier D,9999.0,2026-01-31
+P00113,DAILYNEEDS FACE WASH,Beauty,Face Wash,DAILYNEEDS,9682.72,16944.43,Local Vendor,,2022-02-17
+P00114,Nova Football,Sports,football,Nova,7378.02,11610.84,Supplier C,-1.0,2022-04-08
+P00115,Zenith Mixer Grinder,home & kitchen,Mixer Grinder,ZENITH,21964.66,27755.0,Local Vendor,218.0,2025-06-30
+P00116,Nova Mechanical Keyboard,Electronics,Mechanical Keyboard,Nova,19864.46,26783.83,Supplier B,,2022-04-28
+P00117,CasaLite Data Analytics Book,books,Data Analytics Book,CasaLite,21038.24,26596.51,Supplier B,,2024-09-25
+P00118,MobiMax Wireless Earbuds,Electronics,Wireless Earbuds,MobiMax,14618.64,22226.3,Supplier B,9999.0,2023-02-05
+P00119,ProGear Water Bottle,Home & Kitchen,Water Bottle,ProGear,10938.08,17782.43,Supplier A,-1.0,2019-05-06
+P00120,Nova Sneakers,Fashion,Sneakers,nova,10283.68,15933.15,Local Vendor,,2025-04-23
+P00121,Zenith Water Bottle,Home & Kitchen,,ZENITH,4820.78,7062.71,Supplier C,-1.0,2024-04-06
+P00122,UrbanNest Shampoo,beauty, Shampoo ,UrbanNest,8925.98,13201.58,Local Vendor,-1.0,2021-07-18
+P00123,Vivid Fiction Novel,Books,Fiction Novel,Vivid,192.12,293.23,Local Vendor,9999.0,2026-01-12
+P00124, CasaLite Running Shoes ,Sports,Running Shoes,CasaLite,7768.17,16281.58,Local Vendor,-1.0,2025-07-29
+P00125,Orion T-Shirt,FASHION,T-Shirt,ORION,9778.22,18069.03,Supplier A,-1.0,2026-04-03
+P00126,Zenith Coffee Maker,Home & Kitchen,Coffee Maker,Zenith,7957.93,11665.84,Supplier A,9999.0,2021-08-21
+P00127,Nova Cookbook,Books,Cookbook,Nova,11727.99,15581.61,Supplier D,-1.0,2025-05-12
+P00128,TRENDX SUNGLASSES,Fashion,Sunglasses,TrendX,4860.03,5932.37,Supplier A,,2021-04-03
+P00129,TrendX Cookbook,Books,Cookbook,TrendX,6302.43,8281.29,,26.0,2019-10-29
+P00130,ProGear Business Book,Books,BUSINESS BOOK,ProGear,17023.39,23974.82,Local Vendor,,2024-06-05
+P00131,Apex Data Analytics Book,Books,Data Analytics Book,Apex,6259.89,10476.96,Supplier A,-1.0,2025-04-20
+P00132,ProGear Hoodie,Fashion,hoodie, ProGear ,2479.19,5001.83,Supplier C,9999.0,2026-04-05
+P00133,DailyNeeds Hair Dryer,Beauty,Hair Dryer,DailyNeeds,12042.62,25384.39,Supplier A,9999.0,2024-04-08
+P00134,Nova Cricket Bat,Sports,Cricket Bat,Nova,15963.07,24623.59,Supplier D,-1.0,2024-11-27
+P00135,CasaLite Resistance Bands,Sports,Resistance Bands,CasaLite,22367.12,27712.62,Supplier B,131.0,2019-06-25
+P00136,UrbanNest Shampoo,BEAUTY,Shampoo,UrbanNest,10713.8,19382.62,Supplier A,-1.0,2019-08-26
+P00137,Zenith Business Book,Books,Business Book,Zenith,21152.58,29031.81,Supplier B,165.0,2023-06-10
+P00138, Vivid Sneakers ,Fashion,SNEAKERS,Vivid,420.55,695.88,Local Vendor,,2021-01-26
+P00139,MobiMax Power Bank,Electronics,Power Bank,MobiMax,1778.55,2392.81,Supplier A,,2025-05-04
+P00140,dailyneeds jeans,fashion, Jeans ,DailyNeeds,19329.7,28773.62,Supplier A,9999.0,2020-08-29
+P00141,Apex Webcam, Electronics ,Webcam,Apex,11508.33,18135.46,Supplier C,-1.0,2022-01-11
+P00142,Zenith Self Help Book,Books,Self Help Book,Zenith,14019.84,17574.23,,-1.0,2022-07-26
+P00143,EverBuy Watch,FASHION,Watch,EverBuy,1808.66,3064.02,,218.0,2024-08-18
+P00144,Zenith Non-stick Pan,Home & Kitchen,Non-stick Pan,Zenith,4075.13,8018.11,Supplier B,,2020-09-03
+P00145,trendx fiction novel,Books,Fiction Novel,TrendX,7394.1,12982.97,Supplier D,160.0,2020-03-08
+P00146,EverBuy Football,Sports,Football,EverBuy,6248.84,9128.39,Supplier C,9999.0,2022-01-09
+P00147,CasaLite Moisturizer,Beauty,Moisturizer,CasaLite,17982.41,29813.51,Supplier B,9999.0,2024-07-02
+P00148,UrbanNest Cricket Bat,Sports,Cricket Bat,UrbanNest,4242.43,9182.05,Supplier B,9999.0,2020-10-19
+P00149,ProGear T-Shirt,Fashion,T-Shirt,ProGear,14270.3,29847.4,Supplier B,-1.0,2025-12-02
+P00150,MobiMax Mixer Grinder,Home & Kitchen,Mixer Grinder,MobiMax,11598.51,17583.62,Supplier C,,2020-08-06
+P00151,TrendX Air Fryer,Home & Kitchen, Air Fryer ,TrendX,13590.65,19409.32,Supplier C,153.0,2020-04-22
+P00152,TrendX Watch,Fashion,Watch,TrendX,3778.79,5843.04,Local Vendor,-1.0,2024-04-18
+P00153,CasaLite Hair Dryer,beauty,Hair Dryer,CasaLite,18128.86,25985.31,Local Vendor,-1.0,2019-03-17
+P00154,UrbanNest Business Book,Books,Business Book,UrbanNest,17731.16,26868.23,Supplier C,35.0,2019-11-20
+P00155,NOVA WATCH,Fashion,Watch,nova,5130.81,11136.29,Supplier C,-1.0,2020-02-26
+P00156,Zenith Fiction Novel,Books,Fiction Novel,Zenith,19211.53,29263.9,Supplier C,-1.0,2019-02-17
+P00157,ProGear Bluetooth Speaker,Electronics,Bluetooth Speaker,ProGear,14174.2,17849.58,Supplier D,160.0,2023-05-02
+P00158, ProGear Dumbbells ,Sports,,ProGear,5807.9,12719.68,Supplier D,186.0,2022-12-21
+P00159,EverBuy Cricket Bat,Sports,Cricket Bat,EverBuy,10163.99,12977.58,Supplier A,248.0,2024-08-09
+P00160,DailyNeeds Coffee Maker,Home & Kitchen,Coffee Maker,DailyNeeds,11966.86,19521.74,Supplier D,198.0,2021-01-13
+P00161,MobiMax Smartwatch,Electronics,Smartwatch,MobiMax,12145.84,24345.93,Local Vendor,-1.0,2022-06-21
+P00162,MobiMax Mechanical Keyboard,Electronics,Mechanical Keyboard,MobiMax,18700.88,25447.99,Supplier C,-1.0,2021-04-25
+P00163,TrendX Wireless Earbuds,Electronics,Wireless Earbuds,TrendX,3889.72,4993.97,Local Vendor,,2021-05-12
+P00164,Orion USB-C Hub,Electronics,USB-C Hub,Orion,13511.89,16658.95,Supplier A,-1.0,2022-06-01
+P00165,Nova Moisturizer,Beauty,Moisturizer,Nova,15406.99,28430.65,Supplier A,,2024-05-14
+P00166,APEX HOODIE,Fashion,Hoodie,Apex,18046.41,28025.2,Supplier C,9999.0,2023-08-12
+P00167,DailyNeeds Air Fryer,Home & Kitchen, Air Fryer ,DailyNeeds,7474.37,14915.16,Supplier D,,2020-05-29
+P00168,Apex Webcam,Electronics,Webcam,Apex,13102.34,16089.83,Local Vendor,9999.0,2020-12-28
+P00169,CasaLite Business Book,Books,Business Book,CasaLite,1926.08,3971.42,Local Vendor,148.0,2025-10-23
+P00170,Nova Air Fryer,Home & Kitchen,AIR FRYER,Nova,10259.59,19877.02,Supplier D,67.0,2019-06-08
+P00171,Vivid Moisturizer,Beauty,Moisturizer,Vivid,4818.5,6197.38,Supplier C,184.0,2020-05-05
+P00172, UrbanNest USB-C Hub ,electronics,USB-C Hub,UrbanNest,18092.99,24801.38,Local Vendor,,2022-03-19
+P00173,EverBuy Self Help Book,books,Self Help Book,EverBuy,2161.19,2930.43,Local Vendor,,2024-03-30
+P00174,ProGear Perfume,Beauty,Perfume,ProGear,17149.59,20919.6,Local Vendor,-1.0,2024-11-29
+P00175,UrbanNest Shampoo,Beauty,SHAMPOO,UrbanNest,6331.55,11153.35,Local Vendor,149.0,2019-07-23
+P00176,UrbanNest Self Help Book,Books,Self Help Book,URBANNEST,3154.38,4249.33,Supplier D,197.0,2019-03-11
+P00177,PROGEAR T-SHIRT,Fashion,T-Shirt,ProGear,6558.9,10813.57,Supplier D,9999.0,2021-01-18
+P00178,MobiMax T-Shirt,Fashion,T-Shirt,MobiMax,4544.88,9903.66,Supplier B,,2025-09-29
+P00179,ZENITH RESISTANCE BANDS,Sports,Resistance Bands,Zenith,2169.1,2934.89,Supplier D,-1.0,2025-07-23
+P00180,ProGear Face Wash,Beauty,Face Wash,ProGear,10917.52,22872.11,Supplier C,60.0,2025-05-31
+P00181,Nova Perfume,Beauty,Perfume,Nova,16267.17,29233.08,Supplier A,9999.0,2026-02-04
+P00182,EverBuy Moisturizer,Beauty,Moisturizer,EverBuy,653.67,1243.87,Supplier D,,2022-10-02
+P00183,Orion Hoodie,Fashion,Hoodie,Orion,15120.87,24564.28,Supplier C,179.0,2021-12-28
+P00184, Zenith Business Book ,Books,Business Book,Zenith,9073.79,12870.42,Supplier C,-1.0,2022-10-29
+P00185,Orion Cricket Bat,sports,cricket bat,,15070.43,27836.28,Supplier A,9999.0,2020-05-09
+P00186,DailyNeeds USB-C Hub,Electronics,USB-C Hub,DAILYNEEDS,4868.49,6788.81,Supplier B,,2023-11-06
+P00187,Nova USB-C Hub,Electronics,USB-C HUB, Nova ,5713.69,10231.64,Supplier D,9999.0,2020-10-01
+P00188, DailyNeeds Desk Lamp ,Home & Kitchen,Desk Lamp,DAILYNEEDS,8029.54,16685.08,Local Vendor,249.0,2021-04-15
+P00189,CasaLite Running Shoes,Sports,Running Shoes,CasaLite,3055.61,6218.25,Supplier D,9999.0,2026-01-09
+P00190,CasaLite Storage Box,Home & Kitchen,Storage Box,CasaLite,6026.02,9510.58,Supplier B,9999.0,2024-01-13
+P00191,Apex Sunscreen,Beauty,SUNSCREEN,Apex,7593.41,14661.87,Supplier B,-1.0,2020-02-03
+P00192,Apex Shampoo,BEAUTY,Shampoo,Apex,7176.66,14860.86,Supplier C,9999.0,2019-09-15
+P00193,ProGear Jeans,Fashion,Jeans,ProGear,12286.52,16512.8,Supplier B,142.0,2025-02-05
+P00194,Apex Cricket Bat,sports,Cricket Bat,Apex,19005.84,28491.37,Supplier C,79.0,2026-02-20
+P00195,nova business book,Books,Business Book,Nova,10796.83,21117.91,Supplier D,-1.0,2022-10-02
+P00196,Zenith Water Bottle,Home & Kitchen,Water Bottle,Zenith,2923.59,5287.85,Supplier C,,2019-01-16
+P00197,Nova Sneakers,Fashion,Sneakers, Nova ,21884.74,29512.38,Supplier B,9999.0,2021-07-28
+P00198, EverBuy Wireless Earbuds ,Electronics,Wireless Earbuds,everbuy,17901.24,24237.83,Supplier D,76.0,2024-03-23
+P00199,UrbanNest Desk Lamp,Home & Kitchen,Desk Lamp,UrbanNest,11552.93,19583.58,Local Vendor,,2021-06-10
+P00200,Orion Running Shoes,Sports,Running Shoes,Orion,3798.13,7830.58,Supplier C,,2025-01-04
+P00201,CASALITE SNEAKERS,Fashion,Sneakers,CasaLite,21574.13,29230.87,Supplier C,,2022-06-02
+P00202,mobimax business book,Books,Business Book,MobiMax,2523.58,3527.58,Supplier C,9999.0,2023-11-25
+P00203,MobiMax Sneakers,Fashion,Sneakers,MobiMax,14387.82,26764.77,Supplier B,-1.0,2020-07-10
+P00204,DAILYNEEDS COOKBOOK,Books, Cookbook ,,12028.11,15805.21,Supplier A,,2025-07-13
+P00205,Zenith Water Bottle,Home & Kitchen,Water Bottle,Zenith,8464.64,18042.4,Supplier D,,2022-11-27
+P00206,ProGear Watch,Fashion,Watch,ProGear,10650.94,14891.36,Supplier B,79.0,2024-07-22
+P00207,Zenith Fiction Novel,Books,,Zenith,2547.73,4530.2,Supplier B,9999.0,2020-08-07
+P00208, Orion Sunscreen ,Beauty,sunscreen,Orion,4897.32,6255.5,Supplier B,9999.0,2026-03-25
+P00209,MobiMax Wireless Earbuds,Electronics,Wireless Earbuds,MobiMax,9322.54,19929.82,Supplier B,9999.0,2026-05-21
+P00210,CasaLite Data Analytics Book,Books,Data Analytics Book,CasaLite,2542.47,4381.37,Supplier A,234.0,2019-02-07
+P00211, TrendX Sunscreen ,Beauty,Sunscreen,TrendX,462.35,649.62,Supplier B,9999.0,2023-12-05
+P00212,CasaLite Bluetooth Speaker,Electronics,Bluetooth Speaker,CASALITE,7240.51,14512.03,Local Vendor,9999.0,2019-10-21
+P00213,UrbanNest Dumbbells,Sports,Dumbbells,UrbanNest,9564.79,13589.65,Supplier B,229.0,2020-04-08
+P00214,TrendX Watch,Fashion,Watch,TrendX,1159.71,1568.2,Supplier C,,2020-12-09
+P00215,Vivid Football,Sports,Football,Vivid,15930.52,29783.95,Supplier D,,2020-12-04
+P00216,Zenith Face Wash,Beauty,face wash,Zenith,18159.15,29630.29,Supplier D,9999.0,2026-06-04
+P00217,Orion Running Shoes,Sports,Running Shoes,Orion,7903.35,16861.99,Local Vendor,-1.0,2021-11-05
+P00218,DailyNeeds T-Shirt,Fashion, T-Shirt ,DailyNeeds,10262.27,22715.36,Supplier C,-1.0,2020-07-30
+P00219,ProGear Non-stick Pan,HOME & KITCHEN,non-stick pan,ProGear,7801.82,15122.83,Local Vendor,-1.0,2024-05-20
+P00220,Orion Data Analytics Book,Books,,Orion,2619.12,4972.87,Local Vendor,,2022-11-12
+P00221,CasaLite Sunscreen,Beauty,SUNSCREEN,CasaLite,3461.99,5180.05,Supplier A,9999.0,2019-10-18
+P00222,Orion Hoodie,Fashion,Hoodie,orion,1461.86,1960.04,Local Vendor,,2026-04-07
+P00223,EverBuy Cookbook,Books,Cookbook,EverBuy,4363.6,7796.14,Supplier C,9999.0,2020-05-29
+P00224,Vivid Cricket Bat,SPORTS,Cricket Bat,Vivid,8336.55,10915.95,Supplier D,9999.0,2022-07-25
+P00225,Zenith Football,Sports,Football,Zenith,6992.77,9269.57,Supplier B,-1.0,2023-01-11
+P00226,MobiMax Sneakers,Fashion,Sneakers,MobiMax,18299.12,25001.59,Supplier C,24.0,2023-11-15
+P00227,Orion Hair Dryer,Beauty,Hair Dryer,Orion,6188.57,9663.79,Supplier A,9999.0,2026-01-24
+P00228,CasaLite Football,Sports,Football,casalite,8776.09,10928.26,Supplier B,,2024-07-28
+P00229,Zenith T-Shirt,Fashion,T-Shirt,zenith,10896.57,18345.04,Supplier C,,2025-12-27
+P00230,Apex Water Bottle,Home & Kitchen,Water Bottle,Apex,16202.12,24975.37,Supplier C,116.0,2023-03-08
+P00231,MobiMax Perfume,Beauty,Perfume,MobiMax,951.92,1187.67,Supplier D,,2019-03-20
+P00232,UrbanNest Cookbook,BOOKS,Cookbook,UrbanNest,15808.87,20879.89,Supplier A,-1.0,2023-09-12
+P00233,CasaLite Sunscreen,Beauty,Sunscreen,CasaLite,3249.57,4589.1,Supplier A,,2022-02-02
+P00234,ProGear Hair Dryer,BEAUTY,Hair Dryer,ProGear,21992.47,27975.65,Supplier D,9999.0,2025-09-20
+P00235,CASALITE WATCH,Fashion,Watch, CasaLite ,5240.67,9728.3,Supplier C,24.0,2020-12-11
+P00236,mobimax fiction novel, Books ,Fiction Novel,MobiMax,5755.73,11456.57,Local Vendor,9999.0,2019-04-10
+P00237,MobiMax Dumbbells,Sports,Dumbbells,MobiMax,19402.99,24733.02,Local Vendor,182.0,2023-01-06
+P00238, Zenith Moisturizer ,Beauty,Moisturizer,Zenith,9496.3,13535.58,Supplier B,-1.0,2020-01-31
+P00239,Nova Backpack,Fashion,Backpack,NOVA,22255.79,28551.46,Local Vendor,,2022-11-14
+P00240,Vivid Data Analytics Book,Books,Data Analytics Book,Vivid,7239.54,14614.65,Local Vendor,9999.0,2020-06-03
+P00241,DailyNeeds Storage Box,Home & Kitchen,Storage Box,DailyNeeds,2960.37,4375.85,Supplier D,-1.0,2020-09-20
+P00242,MobiMax Hoodie,Fashion,Hoodie,MobiMax,1020.52,1976.51,Local Vendor,-1.0,2025-10-10
+P00243,Apex Running Shoes,Sports,Running Shoes, Apex ,10735.51,15060.39,Supplier C,,2023-11-28
+P00244,Orion Dumbbells,Sports,Dumbbells,orion,1099.87,2199.62,Supplier B,-1.0,2020-02-19
+P00245,dailyneeds resistance bands,Sports,Resistance Bands, DailyNeeds ,8652.24,15593.8,Supplier B,235.0,2022-07-09
+P00246,Nova Perfume,Beauty,,Nova,4238.47,6695.55,,-1.0,2023-07-19
+P00247,UrbanNest Smartwatch,Electronics,Smartwatch,urbannest,12042.87,17525.97,Supplier C,212.0,2021-10-21
+P00248,Vivid Air Fryer,Home & Kitchen,AIR FRYER,Vivid,11529.93,19122.5,Supplier D,-1.0,2021-03-21
+P00249,Orion Jeans,Fashion,Jeans,Orion,10891.04,21340.85,Supplier D,-1.0,2020-06-01
+P00250,Zenith Smartwatch,Electronics,Smartwatch,Zenith,9648.64,19815.02,Supplier C,-1.0,2022-04-06
+P00251,MobiMax Non-stick Pan,Home & Kitchen,Non-stick Pan,MobiMax,19169.1,28808.23,Supplier C,-1.0,2019-12-26
+P00252,EverBuy Sunglasses, Fashion ,,EverBuy,9345.45,12415.33,Supplier C,9999.0,2024-07-02
+P00253,TrendX Data Analytics Book,BOOKS, Data Analytics Book ,TrendX,22757.08,29603.43,Supplier C,9999.0,2023-06-20
+P00254,Zenith Smartwatch,Electronics,smartwatch,Zenith,15609.8,28920.73,Supplier D,9999.0,2021-12-06
+P00255,UrbanNest T-Shirt,Fashion,T-Shirt,UrbanNest,6977.58,11004.94,Local Vendor,-1.0,2024-05-30
+P00256,UrbanNest Resistance Bands,Sports,Resistance Bands, UrbanNest ,18590.75,25799.04,Supplier C,61.0,2021-08-08
+P00257,ProGear Mechanical Keyboard,Electronics,Mechanical Keyboard,ProGear,15115.82,25122.59,Supplier A,-1.0,2023-04-06
+P00258,CasaLite Sneakers,Fashion, Sneakers ,CasaLite,9702.21,16120.07,Supplier D,14.0,2019-04-06
+P00259,ORION SNEAKERS,Fashion,Sneakers,Orion,17508.99,24395.39,Supplier A,-1.0,2019-02-19
+P00260,EverBuy Smartwatch,Electronics,Smartwatch,EverBuy,4368.54,8194.71,Supplier D,,2023-10-19
+P00261,Vivid Cookbook,Books,Cookbook,VIVID,15371.0,18820.66,Supplier C,9999.0,2020-07-05
+P00262,Apex Jeans,Fashion,Jeans,Apex,4354.12,8977.73,Supplier A,-1.0,2024-03-21
+P00263,MOBIMAX WATCH,FASHION, Watch ,MobiMax,11353.88,23255.45,Supplier A,9999.0,2022-10-06
+P00264,Orion Cookbook, Books ,Cookbook,Orion,6487.54,12278.71,Local Vendor,122.0,2019-04-09
+P00265,Orion Sunglasses,Fashion,Sunglasses,Orion,970.78,1581.32,Supplier D,-1.0,2019-03-02
+P00266,Orion Cricket Bat,Sports,Cricket Bat,Orion,3207.74,5019.46,Supplier B,102.0,2023-06-04
+P00267,DAILYNEEDS FOOTBALL,sports,Football,DailyNeeds,9852.35,18159.08,Supplier B,-1.0,2024-06-03
+P00268,NOVA DATA ANALYTICS BOOK,books,Data Analytics Book,Nova,8736.65,18973.48,Supplier A,9999.0,2020-05-06
+P00269,Zenith Dumbbells,Sports,Dumbbells,Zenith,9557.42,18254.12,Supplier D,,2019-10-25
+P00270,EverBuy Coffee Maker,Home & Kitchen,Coffee Maker,EverBuy,12712.06,25408.03,Supplier B,-1.0,2021-07-23
+P00271,CasaLite Smartwatch,Electronics,Smartwatch,casalite,19351.92,23908.56,Local Vendor,38.0,2022-03-13
+P00272,Orion Webcam,Electronics,Webcam,Orion,19328.99,25101.71,Supplier C,-1.0,2023-06-15
+P00273,TrendX Bluetooth Speaker,Electronics,Bluetooth Speaker,TrendX,6626.7,10303.15,Local Vendor,232.0,2022-02-03
+P00274,MobiMax Dumbbells, Sports ,Dumbbells,MobiMax,721.79,1202.51,Supplier D,,2020-12-25
+P00275,Vivid Data Analytics Book,books,Data Analytics Book,Vivid,4649.48,10127.57,Local Vendor,9.0,2025-08-17
+P00276,CasaLite Business Book,Books,Business Book,CasaLite,11430.02,19809.53,Supplier A,-1.0,2020-12-17
+P00277,progear sunscreen,Beauty,Sunscreen,PROGEAR,1878.95,2320.27,Local Vendor,,2022-05-26
+P00278,DailyNeeds Watch,Fashion,Watch,DailyNeeds,9919.77,19807.79,Supplier D,-1.0,2023-01-29
+P00279,EverBuy Wireless Earbuds,Electronics,Wireless Earbuds,EverBuy,10243.54,15292.11,,9999.0,2020-06-04
+P00280,UrbanNest Jeans,Fashion,Jeans,UrbanNest,4583.96,9083.46,Local Vendor,9999.0,2023-01-17
+P00281,EverBuy Sunscreen,Beauty,Sunscreen,everbuy,9357.34,19810.74,Supplier B,-1.0,2026-04-23
+P00282,URBANNEST HOODIE,Fashion,Hoodie,UrbanNest,7503.03,14925.36,Local Vendor,9999.0,2021-08-20
+P00283,Vivid Sunscreen,Beauty,Sunscreen,Vivid,3480.9,4803.77,Supplier D,58.0,2022-02-02
+P00284, Apex Moisturizer ,Beauty,Moisturizer,Apex,11109.12,13648.93,Supplier B,9999.0,2024-04-09
+P00285,Apex Yoga Mat,Sports,Yoga Mat,Apex,8253.36,14631.3,,9999.0,2023-10-02
+P00286,nova jeans,Fashion, Jeans , Nova ,359.09,564.84,Supplier B,9999.0,2020-03-29
+P00287,Orion Self Help Book,books, Self Help Book ,Orion,16038.02,26008.91,Supplier A,9999.0,2019-12-05
+P00288,UrbanNest T-Shirt,Fashion,T-Shirt,UrbanNest,10737.0,17267.43,Supplier B,-1.0,2025-08-30
+P00289,Vivid Shampoo,Beauty,Shampoo,Vivid,3689.41,8192.87,Local Vendor,,2019-08-06
+P00290,TrendX Face Wash,Beauty,Face Wash,TrendX,23518.77,29913.44,Local Vendor,9999.0,2019-05-22
+P00291,ProGear Self Help Book,books,Self Help Book,progear,13516.81,16579.97,Supplier A,,2024-04-12
+P00292,Vivid Power Bank, Electronics ,Power Bank,VIVID,9728.34,12673.4,Supplier D,-1.0,2020-03-29
+P00293,everbuy shampoo,Beauty,Shampoo,EverBuy,4422.5,8187.96,Supplier D,,2019-10-02
+P00294,TrendX USB-C Hub,Electronics, USB-C Hub ,TrendX,14886.13,24350.2,Supplier B,,2019-02-08
+P00295,EverBuy Face Wash,Beauty,Face Wash,EverBuy,3520.04,5228.12,Supplier B,,2020-03-01
+P00296,Vivid Cookbook,Books,Cookbook,Vivid,12084.32,19897.16,Supplier D,9999.0,2021-10-08
+P00297,Nova T-Shirt,Fashion,T-Shirt,Nova,904.17,1245.49,Local Vendor,205.0,2022-10-25
+P00298,CasaLite T-Shirt,Fashion,T-Shirt,CasaLite,3956.5,6111.49,Supplier C,9999.0,2025-08-12
+P00299,Orion Perfume,Beauty,Perfume,Orion,13438.06,26017.93,Supplier C,9999.0,2020-08-03
+P00300,Orion Resistance Bands,Sports,Resistance Bands,Orion,2820.67,6249.71,Supplier C,-1.0,2019-03-26
+P00301,MobiMax Fiction Novel,Books,Fiction Novel,MobiMax,17316.51,28896.24,Supplier C,136.0,2023-03-14
+P00302,EverBuy Self Help Book,BOOKS,Self Help Book,EverBuy,9647.58,12674.5,Supplier C,-1.0,2020-10-19
+P00303,UrbanNest Smartwatch,Electronics,Smartwatch,UrbanNest,10530.87,13205.16,Supplier B,,2024-08-09
+P00304,Apex Cricket Bat,Sports,Cricket Bat,Apex,16238.63,22767.21,Supplier B,9999.0,2023-08-05
+P00305,Zenith Storage Box, Home & Kitchen ,Storage Box, Zenith ,2223.8,2913.5,Supplier D,,2026-03-18
+P00306,ProGear Shampoo,Beauty,Shampoo,,8699.58,17911.91,Local Vendor,-1.0,2025-12-04
+P00307,PROGEAR BUSINESS BOOK,Books,Business Book,ProGear,20979.12,29977.16,Supplier A,244.0,2020-03-20
+P00308,UrbanNest Hoodie,Fashion,Hoodie,UrbanNest,12756.05,25284.18,Supplier A,9999.0,2019-08-23
+P00309,Apex Smartwatch,Electronics,Smartwatch, Apex ,18178.32,22481.79,Supplier C,9999.0,2021-10-19
+P00310,Apex Yoga Mat,Sports, Yoga Mat ,apex,4887.18,6396.21,Local Vendor,-1.0,2025-11-14
+P00311,DailyNeeds Mechanical Keyboard,Electronics,Mechanical Keyboard,DailyNeeds,22319.9,28577.8,Supplier C,176.0,2025-02-01
+P00312,Orion Face Wash,Beauty,Face Wash,Orion,17467.12,25338.54,Supplier D,9999.0,2022-12-16
+P00313,DAILYNEEDS SMARTWATCH,Electronics,Smartwatch,DailyNeeds,2871.93,5494.06,Supplier C,-1.0,2025-10-09
+P00314,casalite t-shirt,FASHION, T-Shirt ,CasaLite,3646.33,4729.74,Supplier D,,2023-04-03
+P00315,Orion Yoga Mat,Sports,yoga mat,Orion,1223.96,2154.55,Local Vendor,,2026-01-23
+P00316,APEX PERFUME,Beauty,Perfume,Apex,17339.02,25386.72,Local Vendor,9999.0,2020-05-08
+P00317,urbannest power bank, Electronics ,Power Bank,UrbanNest,17590.78,29820.78,Local Vendor,-1.0,2019-08-07
+P00318,MobiMax Data Analytics Book,Books, Data Analytics Book ,MobiMax,10428.88,23014.06,Supplier D,,2023-01-23
+P00319,EverBuy Resistance Bands,Sports,,EverBuy,16189.13,22505.63,Supplier C,,2019-05-09
+P00320,Apex Non-stick Pan,Home & Kitchen,Non-stick Pan, Apex ,1329.53,2339.24,Local Vendor,9999.0,2021-04-27
+P00321,Nova Watch,Fashion, Watch ,Nova,1523.22,2056.3,Supplier A,,2024-05-01
+P00322,Vivid Coffee Maker,Home & Kitchen,Coffee Maker,vivid,13621.72,27151.98,Supplier A,,2020-04-05
+P00323,Nova Bluetooth Speaker,Electronics,,Nova,13638.87,23223.62,Supplier B,-1.0,2025-03-02
+P00324,Vivid Storage Box,Home & Kitchen,Storage Box,vivid,170.8,218.66,Supplier D,9999.0,2019-11-24
+P00325,Orion Mechanical Keyboard,Electronics,Mechanical Keyboard,Orion,4428.79,5777.88,Local Vendor,-1.0,2024-04-30
+P00326, CasaLite Bluetooth Speaker ,Electronics,Bluetooth Speaker,CasaLite,8528.91,13516.28,Supplier D,17.0,2023-10-27
+P00327,UrbanNest Yoga Mat,Sports, Yoga Mat ,UrbanNest,11794.79,16695.67,Local Vendor,-1.0,2025-10-11
+P00328,Nova T-Shirt,Fashion,T-Shirt,Nova,3336.28,5601.89,Supplier C,-1.0,2026-01-19
+P00329,MobiMax Mixer Grinder, Home & Kitchen ,MIXER GRINDER,MobiMax,430.01,888.43,Supplier B,,2024-07-14
+P00330,Apex Sneakers,Fashion,Sneakers,Apex,17212.29,23434.44,Supplier A,164.0,2022-05-28
+P00331,TrendX Moisturizer,Beauty,Moisturizer,TRENDX,19837.42,26300.02,Supplier D,-1.0,2025-11-19
+P00332,Apex Storage Box,Home & Kitchen,Storage Box,Apex,7204.75,9831.56,Supplier B,-1.0,2021-09-18
+P00333,ProGear T-Shirt,Fashion,T-Shirt,,4993.46,8517.08,Local Vendor,9999.0,2024-06-01
+P00334,Orion Desk Lamp,Home & Kitchen,Desk Lamp,Orion,12887.39,18819.9,Local Vendor,,2021-09-05
+P00335,vivid fiction novel,Books,Fiction Novel,Vivid,17175.06,23134.2,Supplier D,9999.0,2023-09-14
+P00336,MobiMax Yoga Mat,Sports,Yoga Mat,MobiMax,10256.09,16221.71,Supplier B,9999.0,2022-06-25
+P00337,ZENITH WIRELESS EARBUDS,Electronics,WIRELESS EARBUDS,ZENITH,500.51,619.27,Supplier A,,2026-01-28
+P00338,Nova Perfume,Beauty,perfume,NOVA,6454.4,9497.43,Supplier D,,2019-02-01
+P00339,Nova Moisturizer,Beauty,Moisturizer,,15789.06,24160.23,Supplier C,9999.0,2019-05-17
+P00340,UrbanNest Hoodie,Fashion,Hoodie,UrbanNest,20368.91,27421.33,Supplier C,9999.0,2022-09-26
+P00341,TrendX Watch,Fashion,Watch,TrendX,10668.52,22454.31,Local Vendor,,2019-09-16
+P00342,EverBuy Sunglasses,Fashion,Sunglasses,EverBuy,19383.89,26265.08,Supplier D,-1.0,2026-06-17
+P00343,EverBuy Self Help Book,Books,Self Help Book,EverBuy,6349.16,11137.17,Supplier C,14.0,2019-10-30
+P00344,DailyNeeds Football,Sports,FOOTBALL,DailyNeeds,14814.79,19247.82,Local Vendor,192.0,2019-12-14
+P00345,EverBuy Resistance Bands,Sports,Resistance Bands,EVERBUY,3210.4,6097.5,Supplier A,,2023-06-04
+P00346,TrendX Coffee Maker,Home & Kitchen,Coffee Maker,TrendX,4674.62,7590.75,Supplier C,9999.0,2026-04-27
+P00347,Apex Running Shoes,Sports,Running Shoes,APEX,14316.03,27312.67,Local Vendor,-1.0,2025-08-13
+P00348,CasaLite Smartwatch,Electronics,Smartwatch,CasaLite,3977.57,7342.08,Local Vendor,-1.0,2024-12-22
+P00349,UrbanNest Mechanical Keyboard,Electronics, Mechanical Keyboard ,UrbanNest,6150.6,10900.36,Supplier D,9999.0,2022-11-07
+P00350, ProGear Yoga Mat ,SPORTS,Yoga Mat,ProGear,15097.93,23197.16,Supplier C,,2019-02-14
+P00351,Orion Football,Sports,FOOTBALL,Orion,800.79,1185.4,,80.0,2020-12-01
+P00352,TrendX Hair Dryer,Beauty,Hair Dryer, TrendX ,12203.84,22586.31,Supplier A,227.0,2019-05-11
+P00353,Apex Yoga Mat,Sports,Yoga Mat,Apex,23043.89,29417.49,Supplier D,,2020-04-18
+P00354,Orion Fiction Novel,Books,Fiction Novel,Orion,8596.79,18313.25,Supplier C,,2020-06-22
+P00355,CasaLite Coffee Maker,Home & Kitchen,Coffee Maker,casalite,13138.61,23651.79,Local Vendor,9999.0,2023-05-03
+P00356,CasaLite Storage Box,HOME & KITCHEN,storage box,CasaLite,5585.26,10538.12,Supplier A,9999.0,2019-03-29
+P00357,UrbanNest Bluetooth Speaker,Electronics,Bluetooth Speaker,UrbanNest,7327.75,12221.89,Supplier C,113.0,2023-12-28
+P00358,mobimax backpack,Fashion,Backpack,MobiMax,3453.76,4402.64,Supplier B,,2020-04-05
+P00359,Apex T-Shirt,Fashion,T-Shirt,Apex,16900.34,26651.33,Supplier D,9999.0,2026-01-22
+P00360,CasaLite Dumbbells,Sports,Dumbbells,CasaLite,2208.47,3252.06,,-1.0,2019-12-02
+P00361,Apex Moisturizer,BEAUTY,Moisturizer,apex,15597.71,28714.33,Supplier A,-1.0,2021-10-06
+P00362,TrendX Watch,Fashion,WATCH,TrendX,15983.67,20050.47,Supplier B,,2025-10-20
+P00363,Vivid Hair Dryer,Beauty,Hair Dryer,Vivid,16016.07,23175.04,Supplier B,,2021-07-29
+P00364,Zenith Mixer Grinder,Home & Kitchen, Mixer Grinder ,Zenith,12924.45,20560.31,Supplier B,226.0,2025-04-07
+P00365,MobiMax Shampoo,BEAUTY,Shampoo,MobiMax,8389.39,13486.28,Supplier D,182.0,2022-07-19
+P00366,CasaLite Dumbbells, Sports ,Dumbbells,CasaLite,5472.06,11425.12,Local Vendor,41.0,2024-05-13
+P00367,EverBuy Non-stick Pan,Home & Kitchen,Non-stick Pan,EverBuy,4156.94,6543.64,Supplier D,9999.0,2024-12-23
+P00368,Vivid Watch,Fashion,watch,Vivid,8636.65,15202.14,Supplier B,9999.0,2023-01-02
+P00369,Orion Cricket Bat, Sports ,Cricket Bat,Orion,17232.67,28323.5,Local Vendor,203.0,2023-01-22
+P00370,Apex Data Analytics Book,books,Data Analytics Book,Apex,2896.95,5345.56,Local Vendor,102.0,2026-01-02
+P00371,Zenith Hoodie,Fashion,HOODIE,Zenith,10437.51,17802.23,Supplier D,-1.0,2025-03-27
+P00372,trendx yoga mat,Sports,Yoga Mat,TrendX,9556.1,20153.98,Supplier C,-1.0,2020-05-11
+P00373,Nova Watch,Fashion,Watch,Nova,13721.06,21403.35,Supplier D,,2025-03-31
+P00374,TrendX Hair Dryer,Beauty,Hair Dryer,TrendX,10335.16,17935.17,Supplier A,,2024-04-07
+P00375,UrbanNest Face Wash,Beauty,Face Wash,UrbanNest,8007.34,13351.76,Local Vendor,-1.0,2025-10-05
+P00376,Orion Storage Box,Home & Kitchen,Storage Box,Orion,17147.75,25960.71,Supplier C,-1.0,2026-01-20
+P00377,Apex Self Help Book,books,Self Help Book,Apex,19283.56,24122.42,Supplier D,-1.0,2025-06-29
+P00378,DailyNeeds Perfume,Beauty,PERFUME,DAILYNEEDS,20000.09,27422.83,Supplier B,163.0,2019-10-31
+P00379,MobiMax Data Analytics Book,Books,Data Analytics Book,MobiMax,13245.41,20318.86,Local Vendor,98.0,2021-09-02
+P00380,TrendX Sneakers,Fashion,Sneakers,TrendX,16198.76,26815.9,Supplier D,-1.0,2019-08-15
+P00381,ProGear Mechanical Keyboard,Electronics,Mechanical Keyboard,ProGear,7054.64,11760.69,Supplier D,-1.0,2021-11-16
+P00382,Vivid Bluetooth Speaker,Electronics,Bluetooth Speaker,Vivid,16745.7,21825.55,Supplier B,9999.0,2024-11-18
+P00383,Orion Air Fryer,HOME & KITCHEN,Air Fryer,ORION,11583.88,19071.11,Local Vendor,9999.0,2023-02-15
+P00384,MobiMax Mixer Grinder,Home & Kitchen,Mixer Grinder,MobiMax,1254.22,1885.54,Supplier D,-1.0,2020-02-26
+P00385,ProGear Shampoo, Beauty ,Shampoo,ProGear,13600.59,21749.82,Supplier C,128.0,2022-07-20
+P00386,EverBuy USB-C Hub,Electronics,USB-C Hub,EverBuy,22952.39,28295.31,Supplier C,,2022-06-22
+P00387,CasaLite Running Shoes,Sports,Running Shoes,CasaLite,168.51,326.19,Local Vendor,,2021-12-19
+P00388,Apex Wireless Earbuds,Electronics,WIRELESS EARBUDS,Apex,6781.51,15031.14,,,2024-04-05
+P00389,VIVID POWER BANK,Electronics,Power Bank,VIVID,2303.33,4799.73,Local Vendor,100.0,2019-04-30
+P00390,dailyneeds smartwatch,Electronics,Smartwatch,DailyNeeds,12396.25,24631.96,Supplier A,9999.0,2020-12-14
+P00391,CasaLite Fiction Novel,Books,Fiction Novel,CasaLite,10954.99,23801.02,Supplier D,-1.0,2021-12-01
+P00392,Vivid Mechanical Keyboard,Electronics, Mechanical Keyboard ,Vivid,14280.42,27935.7,Supplier B,-1.0,2026-06-18
+P00393,Vivid Shampoo,Beauty,Shampoo,Vivid,10686.4,14653.93,Local Vendor,40.0,2021-09-02
+P00394,Orion Football,Sports,Football,Orion,3133.46,5627.3,Local Vendor,9999.0,2022-07-12
+P00395,Orion Mixer Grinder,Home & Kitchen,Mixer Grinder,,20547.11,25208.65,Supplier D,-1.0,2025-04-23
+P00396,TrendX Jeans,Fashion,jeans,TrendX,2158.19,4349.72,Supplier D,-1.0,2024-02-11
+P00397,ProGear Webcam,ELECTRONICS,Webcam,ProGear,5882.09,10979.73,Supplier C,,2023-07-31
+P00398,TrendX Face Wash,Beauty,FACE WASH,trendx,778.74,1614.83,Supplier C,,2019-03-11
+P00399,CasaLite Hair Dryer,Beauty,Hair Dryer,CasaLite,2672.45,5237.43,Supplier C,-1.0,2025-02-28
+P00400,TrendX Football,sports,Football,TrendX,5547.73,9987.79,Local Vendor,-1.0,2020-07-03
+P00401,TrendX Self Help Book,Books,Self Help Book,TrendX,16006.28,20472.0,Supplier C,179.0,2022-09-09
+P00402,TrendX Watch,Fashion,WATCH,TrendX,15908.97,29804.56,Supplier D,9999.0,2024-06-26
+P00403,Vivid Fiction Novel,BOOKS, Fiction Novel ,Vivid,8536.59,18552.51,Supplier C,9999.0,2021-09-23
+P00404,UrbanNest Cricket Bat,Sports,Cricket Bat,,6951.39,9838.58,Supplier D,9999.0,2025-09-10
+P00405,Nova Resistance Bands,Sports,Resistance Bands,Nova,991.0,1976.04,Local Vendor,-1.0,2025-05-15
+P00406,EverBuy Jeans,Fashion,JEANS,EverBuy,19736.53,28032.24,Supplier C,205.0,2019-06-15
+P00407,ProGear Yoga Mat,Sports,Yoga Mat,ProGear,8078.47,12237.07,Local Vendor,,2021-11-27
+P00408,DailyNeeds Power Bank, Electronics ,Power Bank,dailyneeds,14339.79,25196.77,Supplier D,-1.0,2025-01-12
+P00409,CasaLite Desk Lamp, Home & Kitchen ,Desk Lamp,CasaLite,9586.63,13173.26,Supplier A,,2019-10-26
+P00410,CasaLite Power Bank,electronics,Power Bank,CasaLite,1382.41,1729.19,Supplier C,-1.0,2023-11-24
+P00411,Orion Non-stick Pan, Home & Kitchen , Non-stick Pan ,Orion,4603.48,6165.52,,245.0,2022-10-02
+P00412,DailyNeeds Hoodie,Fashion,Hoodie,DailyNeeds,3852.0,6142.07,Supplier A,,2020-01-18
+P00413,TrendX Yoga Mat,Sports,Yoga Mat,trendx,2172.53,3121.73,Supplier D,,2020-08-29
+P00414,CasaLite Shampoo,Beauty,Shampoo,CasaLite,5152.77,6471.54,Supplier B,94.0,2023-07-12
+P00415,Zenith Resistance Bands,Sports,Resistance Bands,Zenith,4840.96,7838.41,Supplier B,123.0,2024-05-17
+P00416,Orion USB-C Hub,Electronics,USB-C Hub,Orion,4510.23,7629.28,Local Vendor,151.0,2020-01-25
+P00417,Nova Cookbook,BOOKS, Cookbook ,Nova,8089.29,12483.97,Supplier B,-1.0,2024-10-05
+P00418,ProGear Fiction Novel,Books,Fiction Novel,ProGear,13631.42,22783.41,Local Vendor,,2023-01-17
+P00419,VIVID BACKPACK,Fashion,Backpack,VIVID,16729.61,26117.74,Local Vendor,9999.0,2020-04-03
+P00420,Orion Resistance Bands,Sports,Resistance Bands,Orion,19488.86,28750.8,Supplier D,-1.0,2022-06-20
+P00421,MobiMax Coffee Maker,Home & Kitchen,Coffee Maker,MobiMax,9869.13,19245.32,Supplier B,-1.0,2024-07-23
+P00422,Apex Storage Box,home & kitchen,Storage Box,Apex,13340.09,22926.33,Supplier B,138.0,2020-11-23
+P00423,EverBuy Bluetooth Speaker,electronics,Bluetooth Speaker,EverBuy,2709.29,4369.44,Local Vendor,-1.0,2026-06-22
+P00424,Apex Dumbbells,Sports,Dumbbells, Apex ,9316.13,20169.3,Supplier B,-1.0,2021-05-26
+P00425,EverBuy Jeans,Fashion,Jeans,EverBuy,9882.75,15493.13,Supplier D,9999.0,2026-03-29
+P00426,MobiMax Face Wash,Beauty, Face Wash ,MobiMax,10161.85,16100.67,Supplier B,-1.0,2026-04-05
+P00427,Apex Resistance Bands,Sports, Resistance Bands , Apex ,11889.85,22554.27,Local Vendor,-1.0,2019-10-13
+P00428,Vivid Bluetooth Speaker,Electronics,Bluetooth Speaker,Vivid,9753.89,17875.11,Supplier C,231.0,2019-10-01
+P00429,Zenith Smartwatch,Electronics,Smartwatch,Zenith,454.22,660.14,Supplier D,217.0,2024-01-25
+P00430,Nova Business Book,Books,Business Book,Nova,8369.12,13050.89,Supplier C,,2023-10-14
+P00431,MobiMax Mixer Grinder,Home & Kitchen,Mixer Grinder,MobiMax,12727.39,25353.95,Supplier C,-1.0,2023-03-20
+P00432,MobiMax Smartwatch,Electronics,smartwatch,MobiMax,2974.19,3901.47,Supplier C,-1.0,2025-06-11
+P00433,Orion Yoga Mat,Sports,,Orion,559.6,691.58,Supplier C,,2025-07-26
+P00434,vivid coffee maker,Home & Kitchen,COFFEE MAKER,Vivid,6237.58,8448.08,Supplier B,,2022-08-04
+P00435,Orion Business Book,Books,business book,orion,19537.87,28479.23,Supplier A,9999.0,2021-05-30
+P00436,Nova Non-stick Pan,HOME & KITCHEN,Non-stick Pan,Nova,15687.44,21652.95,Supplier D,9999.0,2019-02-13
+P00437,MobiMax Face Wash,beauty,Face Wash,MobiMax,13010.21,26314.85,Local Vendor,9999.0,2026-01-05
+P00438,Vivid Resistance Bands,Sports,Resistance Bands,Vivid,6756.83,13533.53,Supplier A,-1.0,2025-01-30
+P00439,Zenith Storage Box,Home & Kitchen,Storage Box,Zenith,14361.91,25709.41,Local Vendor,-1.0,2025-05-13
+P00440,DailyNeeds Hoodie,Fashion,Hoodie,dailyneeds,8442.02,13824.84,Supplier D,-1.0,2026-02-24
+P00441,EVERBUY SELF HELP BOOK,Books,Self Help Book,EverBuy,6000.39,7462.67,Supplier B,-1.0,2023-10-19
+P00442,CasaLite Resistance Bands,SPORTS,Resistance Bands,CasaLite,7149.67,12016.93,Supplier D,-1.0,2019-11-18
+P00443, Zenith Business Book ,Books,Business Book,Zenith,14979.92,22835.79,Local Vendor,,2022-01-23
+P00444,Vivid Shampoo,Beauty,Shampoo,Vivid,4467.64,7412.48,Local Vendor,229.0,2020-02-18
+P00445,DailyNeeds Wireless Earbuds,Electronics,Wireless Earbuds,DailyNeeds,7869.98,10184.66,Supplier D,9999.0,2025-06-18
+P00446,EverBuy Perfume,Beauty,Perfume,EverBuy,10950.02,15908.69,Supplier C,9999.0,2021-07-27
+P00447,Apex Running Shoes,Sports,Running Shoes,Apex,18632.48,22780.05,Supplier A,,2023-12-28
+P00448,CasaLite T-Shirt,Fashion,T-Shirt,CasaLite,12167.87,20552.42,,5.0,2022-08-29
+P00449,Zenith Jeans,fashion,Jeans,Zenith,1176.33,2392.21,Supplier C,,2020-01-16
+P00450,MobiMax Desk Lamp,Home & Kitchen,desk lamp,MobiMax,17048.63,29761.32,Local Vendor,,2023-01-15
+P00451,Nova Air Fryer,Home & Kitchen,Air Fryer,Nova,21522.04,29605.56,Supplier A,-1.0,2020-06-11
+P00452,Nova Cricket Bat,Sports,Cricket Bat,Nova,12070.6,19681.7,Supplier D,176.0,2022-06-10
+P00453,TrendX Resistance Bands,Sports,Resistance Bands,,286.43,411.29,Local Vendor,,2019-03-20
+P00454,Zenith Sunscreen,Beauty,Sunscreen,Zenith,8147.06,13857.58,Supplier D,-1.0,2024-01-27
+P00455, Apex Face Wash ,Beauty,Face Wash,Apex,642.08,1368.75,Supplier B,,2021-02-28
+P00456, Vivid Hoodie ,Fashion,Hoodie,,1967.99,3535.96,Supplier B,,2023-05-08
+P00457,ORION POWER BANK,ELECTRONICS, Power Bank ,orion,313.3,657.78,Supplier A,174.0,2019-11-13
+P00458,ProGear Smartwatch,Electronics, Smartwatch ,ProGear,159.44,335.45,Supplier A,9999.0,2021-10-17
+P00459,Apex Data Analytics Book,Books,Data Analytics Book,Apex,17561.43,24261.51,Supplier C,-1.0,2019-08-04
+P00460,CasaLite Shampoo,Beauty,SHAMPOO,CasaLite,22826.89,29265.19,Local Vendor,30.0,2025-02-14
+P00461,EverBuy Air Fryer,Home & Kitchen,Air Fryer,EverBuy,7922.28,15640.88,Supplier D,-1.0,2022-10-01
+P00462,TrendX Mechanical Keyboard,Electronics,Mechanical Keyboard,TrendX,9810.78,17029.35,Supplier A,,2026-06-30
+P00463,mobimax sneakers,FASHION,Sneakers,MobiMax,12378.55,24924.43,Local Vendor,-1.0,2024-09-05
+P00464,APEX WATCH,Fashion,Watch,Apex,617.18,876.01,Local Vendor,92.0,2022-04-21
+P00465,DailyNeeds Cookbook,Books,Cookbook,DAILYNEEDS,8766.85,10924.7,Supplier B,9999.0,2021-10-19
+P00466,UrbanNest Data Analytics Book,Books,Data Analytics Book,UrbanNest,682.04,839.35,Supplier C,-1.0,2025-07-22
+P00467,MobiMax Mixer Grinder,Home & Kitchen, Mixer Grinder ,MobiMax,12973.46,21900.11,Supplier B,,2025-02-26
+P00468,TrendX Fiction Novel,Books,Fiction Novel,TrendX,16326.71,24484.97,Supplier C,9999.0,2023-05-10
+P00469, TrendX Coffee Maker ,home & kitchen,Coffee Maker,TrendX,2339.18,2951.7,Local Vendor,,2019-06-14
+P00470,Apex Perfume,Beauty, Perfume ,Apex,473.02,980.9,Supplier B,229.0,2024-09-11
+P00471,DAILYNEEDS SHAMPOO,Beauty,Shampoo,DailyNeeds,6839.06,12731.63,Local Vendor,173.0,2020-04-25
+P00472,Nova Desk Lamp,Home & Kitchen,Desk Lamp,,2916.63,4627.91,Local Vendor,9999.0,2021-01-20
+P00473, Zenith Non-stick Pan ,home & kitchen,Non-stick Pan,zenith,9113.27,13756.86,Supplier D,9999.0,2026-05-16
+P00474,Orion Hair Dryer,Beauty,Hair Dryer, Orion ,13119.49,21773.29,Supplier C,,2022-02-17
+P00475,ZENITH PERFUME,Beauty,Perfume,Zenith,15910.4,25536.85,Supplier D,80.0,2022-05-20
+P00476,CasaLite Yoga Mat,Sports,Yoga Mat,CasaLite,7310.49,15708.85,,198.0,2025-03-27
+P00477,Zenith Storage Box,Home & Kitchen,Storage Box,Zenith,10693.3,22417.06,Supplier C,147.0,2021-12-02
+P00478,MobiMax Bluetooth Speaker,ELECTRONICS,Bluetooth Speaker,MobiMax,18390.55,24733.23,Local Vendor,172.0,2022-01-23
+P00479,Apex Wireless Earbuds,Electronics,Wireless Earbuds,Apex,17682.05,21839.16,Supplier D,-1.0,2021-12-16
+P00480,Nova Water Bottle,Home & Kitchen,Water Bottle,Nova,10565.1,17717.4,Local Vendor,9999.0,2023-03-04
+P00481,Zenith Moisturizer,Beauty,Moisturizer,Zenith,9392.34,15711.19,Local Vendor,,2019-12-19
+P00482,Vivid Jeans,Fashion,Jeans,Vivid,21140.28,29043.37,Supplier B,138.0,2022-11-20
+P00483,Orion Resistance Bands,Sports,Resistance Bands,Orion,13386.24,20884.68,Supplier B,9999.0,2025-11-13
+P00484,Zenith Water Bottle,Home & Kitchen,Water Bottle,Zenith,3725.02,7131.74,Supplier D,-1.0,2025-08-19
+P00485,Apex Sunglasses,FASHION,Sunglasses,Apex,11727.44,15485.01,Supplier A,-1.0,2025-03-25
+P00486,DailyNeeds Cricket Bat,Sports,Cricket Bat,DailyNeeds,12753.02,22936.68,Supplier B,-1.0,2021-04-06
+P00487,Orion Business Book,Books,Business Book,Orion,2301.52,4178.21,Supplier B,-1.0,2019-01-19
+P00488,TrendX Sneakers,Fashion,Sneakers,TrendX,16683.87,23759.85,Supplier B,-1.0,2022-11-18
+P00489,orion sneakers,Fashion,Sneakers,Orion,5353.86,11180.81,Supplier C,,2020-12-12
+P00490,UrbanNest Business Book,Books,Business Book,UrbanNest,13307.34,24052.66,Supplier D,,2026-02-21
+P00491,TrendX Self Help Book,Books,Self Help Book,trendx,16877.38,23557.67,Supplier B,246.0,2022-01-14
+P00492,EverBuy Jeans,Fashion,jeans,EverBuy,6334.15,9446.39,Supplier B,-1.0,2023-06-07
+P00493,apex resistance bands,Sports,Resistance Bands,Apex,2205.91,2766.9,Supplier A,,2021-06-17
+P00494,CasaLite Wireless Earbuds,ELECTRONICS,Wireless Earbuds,CasaLite,4406.5,9726.95,Supplier D,234.0,2020-12-01
+P00495,TrendX Storage Box,Home & Kitchen,Storage Box, TrendX ,14565.06,18158.9,Supplier C,72.0,2021-03-21
+P00496,DailyNeeds Sunglasses,Fashion,Sunglasses,DAILYNEEDS,16453.65,22338.35,Supplier A,-1.0,2022-03-01
+P00497,EverBuy T-Shirt,Fashion,t-shirt,,6357.25,9468.16,Supplier C,-1.0,2026-03-31
+P00498,ProGear Cookbook,Books,,ProGear,18136.15,29672.06,Supplier B,-1.0,2022-11-29
+P00499,TrendX Running Shoes,Sports,RUNNING SHOES,trendx,11497.52,20245.26,Supplier B,-1.0,2022-01-23
+P00500,Orion Desk Lamp,Home & Kitchen,Desk Lamp,Orion,3476.58,7393.59,Supplier C,9999.0,2025-01-22
+P00501,Apex Jeans,Fashion,Jeans,apex,687.71,1018.07,Local Vendor,-1.0,2022-04-25
+P00502,DailyNeeds Jeans,Fashion,Jeans,DailyNeeds,11505.96,15121.59,Supplier A,146.0,2019-10-12
+P00503,Orion Dumbbells,Sports,Dumbbells,Orion,15446.45,23153.18,Local Vendor,13.0,2024-04-23
+P00504,EverBuy Cookbook,Books,Cookbook,everbuy,5722.63,7250.3,Local Vendor,9999.0,2024-02-02
+P00505,MobiMax Perfume,BEAUTY,Perfume,MobiMax,10543.06,18959.95,Local Vendor,,2024-03-18
+P00506,MobiMax Sunscreen,Beauty,Sunscreen,MobiMax,5862.7,11136.27,Supplier B,82.0,2022-11-10
+P00507,DailyNeeds Cookbook,Books,Cookbook,DailyNeeds,22743.82,29635.04,Supplier A,-1.0,2023-03-11
+P00508,Orion Business Book,Books,Business Book,Orion,9438.95,12178.67,Supplier B,-1.0,2020-11-29
+P00509,Apex Cookbook,Books,Cookbook,Apex,12538.94,15511.43,Supplier A,9999.0,2022-09-15
+P00510, Orion Backpack ,Fashion,Backpack,Orion,3565.56,4555.8,Supplier B,-1.0,2020-06-20
+P00511,TrendX Sunscreen,BEAUTY, Sunscreen ,TrendX,11416.68,19862.09,Local Vendor,45.0,2023-05-30
+P00512,Nova Face Wash,beauty,Face Wash,Nova,1894.4,4026.03,Supplier A,175.0,2026-01-20
+P00513,apex self help book,Books,Self Help Book,Apex,17633.65,27677.05,Supplier D,207.0,2024-01-02
+P00514, DailyNeeds Face Wash ,Beauty,Face Wash,dailyneeds,9834.46,12531.82,Supplier A,150.0,2019-06-02
+P00515,Nova Self Help Book,Books,Self Help Book,,17707.84,21746.0,Supplier B,80.0,2021-06-28
+P00516,NOVA WIRELESS EARBUDS,Electronics,Wireless Earbuds,nova,11881.43,15092.77,Supplier A,-1.0,2023-06-08
+P00517,progear t-shirt,fashion,T-Shirt,ProGear,15772.28,28159.35,Supplier D,-1.0,2019-06-09
+P00518,dailyneeds fiction novel,Books,fiction novel,DailyNeeds,10354.44,22028.42,Supplier A,9999.0,2024-05-13
+P00519,DailyNeeds Sneakers,FASHION,SNEAKERS,DailyNeeds,2314.69,3767.78,Supplier C,167.0,2023-08-08
+P00520,Zenith Non-stick Pan,home & kitchen,Non-stick Pan,Zenith,17120.44,28474.5,Supplier C,-1.0,2023-06-12
+P00521,mobimax yoga mat,Sports,Yoga Mat,MobiMax,12608.91,24236.72,Supplier C,9999.0,2024-12-12
+P00522,UrbanNest Bluetooth Speaker,Electronics,BLUETOOTH SPEAKER,UrbanNest,13396.17,17816.76,Supplier D,143.0,2020-07-09
+P00523,MobiMax T-Shirt,Fashion,T-Shirt,MobiMax,16639.53,20944.02,Local Vendor,9999.0,2024-06-03
+P00524,Apex Mixer Grinder,Home & Kitchen,Mixer Grinder,Apex,10316.84,13207.96,Local Vendor,,2022-12-31
+P00525,Zenith Webcam,Electronics,Webcam,Zenith,749.0,1395.9,Supplier B,,2025-02-11
+P00526,Orion Hoodie,Fashion,Hoodie,Orion,1704.06,3554.68,Supplier C,39.0,2024-04-10
+P00527,UrbanNest Air Fryer,Home & Kitchen,Air Fryer,UrbanNest,14989.9,18672.29,Local Vendor,9999.0,2019-02-21
+P00528,Apex Desk Lamp,Home & Kitchen,Desk Lamp,APEX,15362.14,28665.66,Supplier A,,2024-09-01
+P00529,ZENITH SHAMPOO,Beauty,Shampoo,Zenith,18125.23,29173.87,Supplier A,,2023-10-15
+P00530,EverBuy Cricket Bat,Sports,Cricket Bat,EverBuy,15271.23,28319.72,Local Vendor,-1.0,2019-04-15
+P00531,ProGear Perfume,Beauty,Perfume,ProGear,14599.95,28170.67,Supplier C,-1.0,2021-12-14
+P00532,Apex Sneakers,Fashion,Sneakers,APEX,10764.05,13580.49,Supplier B,,2019-10-11
+P00533,CasaLite Storage Box,Home & Kitchen,Storage Box,CasaLite,1500.6,2164.49,Supplier B,,2025-03-12
+P00534, Nova USB-C Hub ,electronics,USB-C Hub,Nova,2084.68,3214.18,Supplier B,186.0,2020-08-26
+P00535,Nova Running Shoes,Sports,Running Shoes,Nova,10746.96,14391.96,Supplier C,,2019-06-08
+P00536,mobimax football,Sports,Football,MobiMax,20034.84,27031.21,Supplier D,-1.0,2020-10-22
+P00537,EverBuy Cookbook,Books, Cookbook ,EverBuy,9339.64,15937.41,Supplier B,-1.0,2020-01-19
+P00538,Vivid Coffee Maker,Home & Kitchen,Coffee Maker,Vivid,20084.0,28967.73,Supplier B,,2020-02-02
+P00539,ProGear Cookbook, Books ,Cookbook,ProGear,7991.94,13028.68,Supplier B,211.0,2026-06-29
+P00540,EverBuy Resistance Bands,Sports,Resistance Bands,EverBuy,2798.12,5848.79,Local Vendor,9999.0,2022-01-31
+P00541,Zenith Fiction Novel,books,Fiction Novel,Zenith,14140.46,18348.22,Supplier B,9999.0,2019-04-09
+P00542,Zenith Moisturizer,Beauty,Moisturizer,zenith,18898.71,24595.57,Supplier C,-1.0,2024-12-27
+P00543,Orion Water Bottle,Home & Kitchen,Water Bottle,Orion,3509.81,6436.41,Supplier C,-1.0,2024-04-24
+P00544,Nova Storage Box,Home & Kitchen,Storage Box,Nova,8559.39,14574.41,Supplier B,-1.0,2025-06-29
+P00545,TrendX Watch,Fashion,Watch,TrendX,14944.94,18263.52,Supplier A,227.0,2019-03-08
+P00546,URBANNEST SHAMPOO,Beauty,Shampoo,UrbanNest,682.9,1134.28,Supplier D,-1.0,2025-06-14
+P00547,Nova Wireless Earbuds,Electronics,Wireless Earbuds,Nova,10661.86,21269.73,Supplier C,,2025-11-25
+P00548,Orion Smartwatch,Electronics,Smartwatch,Orion,13435.35,22012.19,Supplier B,-1.0,2024-11-04
+P00549,Apex Data Analytics Book,Books,Data Analytics Book,apex,10644.99,14028.25,Supplier B,,2022-05-11
+P00550,MobiMax Business Book,Books,Business Book,MobiMax,4360.74,6103.79,Supplier B,56.0,2024-05-28
+P00551,UrbanNest Smartwatch,Electronics,Smartwatch,UrbanNest,11497.65,15814.2,Local Vendor,,2020-01-11
+P00552,UrbanNest Non-stick Pan, Home & Kitchen ,Non-stick Pan,UrbanNest,9459.11,19195.79,Supplier D,9999.0,2021-10-01
+P00553,UrbanNest Cricket Bat,Sports,Cricket Bat,UrbanNest,12913.43,16681.66,Supplier D,129.0,2020-12-06
+P00554,DailyNeeds Backpack,Fashion,Backpack,DailyNeeds,2620.77,4903.31,Supplier A,-1.0,2022-10-14
+P00555,TrendX Dumbbells,Sports,Dumbbells,TrendX,13809.32,26455.16,Supplier B,,2022-05-10
+P00556,Apex Yoga Mat,Sports,Yoga Mat,Apex,7519.48,15946.27,Supplier D,,2020-07-14
+P00557,Zenith Smartwatch,Electronics,Smartwatch,Zenith,3180.93,5187.05,Supplier A,96.0,2019-01-31
+P00558,UrbanNest Moisturizer,Beauty, Moisturizer ,UrbanNest,8738.31,12778.18,Local Vendor,9999.0,2021-06-26
+P00559,Orion Webcam, Electronics ,Webcam,orion,18129.49,22345.45,Local Vendor,,2020-05-17
+P00560,DailyNeeds USB-C Hub,Electronics,USB-C Hub,DailyNeeds,8582.89,16039.45,Supplier D,,2019-01-27
+P00561,DailyNeeds Cookbook,Books,Cookbook,DAILYNEEDS,18499.68,27802.41,Supplier A,,2025-07-20
+P00562,TrendX Backpack,Fashion,Backpack,TrendX,9748.85,12670.15,Supplier A,9999.0,2021-12-12
+P00563,Nova Coffee Maker,Home & Kitchen,,Nova,19004.27,24049.28,Supplier C,197.0,2024-12-22
+P00564,Apex Desk Lamp,Home & Kitchen,Desk Lamp,Apex,14773.6,20560.75,Supplier C,9999.0,2023-05-24
+P00565,Nova Jeans,Fashion,Jeans,Nova,831.12,1040.4,Supplier C,,2024-09-28
+P00566,CasaLite Hair Dryer,Beauty, Hair Dryer ,CasaLite,10469.66,14596.65,Supplier A,-1.0,2022-06-15
+P00567,MobiMax Wireless Earbuds,Electronics,Wireless Earbuds,,16437.31,28737.53,Local Vendor,-1.0,2020-01-28
+P00568,VIVID DATA ANALYTICS BOOK,BOOKS, Data Analytics Book ,Vivid,4023.31,7918.15,Local Vendor,-1.0,2021-08-03
+P00569,Vivid Sneakers,Fashion, Sneakers ,Vivid,17198.55,28021.81,Local Vendor,45.0,2022-09-23
+P00570,CasaLite Mixer Grinder,Home & Kitchen,Mixer Grinder,,8476.36,11672.34,Supplier A,,2019-07-15
+P00571,Apex Mixer Grinder, Home & Kitchen ,Mixer Grinder,Apex,5270.62,9240.96,Supplier C,-1.0,2024-08-20
+P00572,ProGear Cricket Bat,Sports,Cricket Bat,ProGear,3999.35,7478.92,Supplier C,-1.0,2025-06-07
+P00573, Vivid Mechanical Keyboard ,Electronics,mechanical keyboard,Vivid,2545.5,4532.7,Supplier C,-1.0,2025-10-14
+P00574,Zenith Webcam,Electronics,Webcam,zenith,10603.92,13276.27,Supplier C,166.0,2020-12-06
+P00575,TrendX Data Analytics Book,Books,data analytics book,TRENDX,13107.6,17448.9,Supplier D,207.0,2020-07-30
+P00576,MobiMax Power Bank, Electronics ,Power Bank,MobiMax,7254.67,14866.86,Supplier A,,2023-03-22
+P00577,Apex Cricket Bat,Sports,Cricket Bat,APEX,17467.34,26407.79,Supplier B,9999.0,2023-07-22
+P00578,Nova Moisturizer, Beauty ,Moisturizer,Nova,8864.83,13954.8,Supplier B,-1.0,2022-11-27
+P00579,Apex Coffee Maker,Home & Kitchen,Coffee Maker,Apex,12918.31,17218.27,Supplier B,-1.0,2024-11-21
+P00580,EverBuy Perfume,Beauty,Perfume,EverBuy,3592.97,7743.48,Supplier B,9999.0,2025-05-04
+P00581,Orion Cricket Bat,Sports,Cricket Bat, Orion ,13738.88,26258.86,Supplier A,,2023-10-05
+P00582,CasaLite Cricket Bat,Sports,Cricket Bat,CasaLite,10759.8,14290.77,Supplier C,9999.0,2022-08-30
+P00583,MOBIMAX USB-C HUB,ELECTRONICS,USB-C Hub,MobiMax,11225.68,19578.27,Local Vendor,,2024-07-12
+P00584,CasaLite Self Help Book,Books,SELF HELP BOOK,CasaLite,16899.0,21795.27,Local Vendor,-1.0,2022-11-06
+P00585,Apex Data Analytics Book,Books,Data Analytics Book,Apex,12391.46,16490.28,Supplier A,,2023-06-07
+P00586, ProGear Air Fryer ,HOME & KITCHEN,Air Fryer, ProGear ,6321.83,11708.89,Supplier A,,2022-12-10
+P00587,CasaLite Hair Dryer,Beauty,Hair Dryer,CasaLite,13706.19,19467.45,Supplier A,226.0,2022-04-02
+P00588,Apex Data Analytics Book,Books,Data Analytics Book,APEX,16949.15,25442.21,Supplier D,,2023-05-10
+P00589, Vivid Mechanical Keyboard ,Electronics,Mechanical Keyboard,Vivid,6615.75,11111.55,Supplier D,-1.0,2024-04-11
+P00590,DailyNeeds Running Shoes,Sports,Running Shoes, DailyNeeds ,1929.88,3425.28,Supplier A,239.0,2024-10-07
+P00591, ProGear USB-C Hub ,Electronics,USB-C Hub,ProGear,7153.17,14222.7,Supplier A,-1.0,2026-02-07
+P00592,EverBuy Running Shoes,SPORTS,Running Shoes,EverBuy,2320.9,3806.77,Supplier C,43.0,2020-12-26
+P00593,UrbanNest Shampoo,Beauty,Shampoo,UrbanNest,1857.8,3402.61,Supplier B,68.0,2024-03-12
+P00594,UrbanNest Coffee Maker,Home & Kitchen,Coffee Maker,UrbanNest,10540.63,14922.33,Supplier B,177.0,2020-12-21
+P00595, UrbanNest Backpack ,Fashion,Backpack,URBANNEST,13277.41,22829.99,Supplier B,9999.0,2020-07-08
+P00596,Zenith Mechanical Keyboard,electronics,Mechanical Keyboard,Zenith,12371.5,26574.48,Supplier B,215.0,2020-10-12
+P00597,trendx coffee maker,Home & Kitchen, Coffee Maker ,TrendX,3606.21,8011.98,Local Vendor,-1.0,2019-09-02
+P00598,DailyNeeds Storage Box,Home & Kitchen,Storage Box,DailyNeeds,4253.96,5669.44,Supplier C,-1.0,2025-01-17
+P00599,UrbanNest Storage Box,Home & Kitchen,Storage Box,UrbanNest,22061.25,28149.5,Supplier B,,2020-04-27
+P00600,DailyNeeds Resistance Bands,Sports,Resistance Bands,DailyNeeds,9992.05,13544.61,Supplier A,,2025-04-10
+P00601,DailyNeeds Data Analytics Book,BOOKS,data analytics book,DailyNeeds,14284.37,19411.55,Local Vendor,,2021-07-12
+P00602, Apex Smartwatch ,Electronics,Smartwatch,Apex,17726.12,26779.69,Local Vendor,151.0,2019-09-23
+P00603,EverBuy Sunscreen,Beauty,Sunscreen,EverBuy,2688.03,4792.74,Supplier C,-1.0,2024-03-09
+P00604, DailyNeeds T-Shirt ,Fashion,T-Shirt,DailyNeeds,13650.19,27915.11,Supplier A,46.0,2020-08-24
+P00605,VIVID SNEAKERS,fashion,Sneakers,vivid,3547.72,6373.75,Supplier B,9999.0,2023-11-13
+P00606,casalite yoga mat,sports,Yoga Mat,CasaLite,14181.77,27475.08,Supplier C,9999.0,2022-03-25
+P00607,MobiMax Dumbbells,sports,Dumbbells,MOBIMAX,18000.25,23752.88,Supplier B,,2026-05-01
+P00608,CasaLite Dumbbells,Sports,dumbbells,CasaLite,9974.52,18993.15,Supplier B,18.0,2023-04-23
+P00609,TrendX Cookbook,Books,Cookbook,TrendX,7928.51,9727.02,Supplier C,120.0,2022-11-12
+P00610,Vivid T-Shirt,Fashion,T-Shirt,Vivid,3098.3,5859.89,Supplier C,,2025-09-15
+P00611,Zenith Dumbbells,SPORTS,Dumbbells,Zenith,3387.49,4192.25,Local Vendor,9999.0,2022-10-09
+P00612,Apex Shampoo,BEAUTY,Shampoo,Apex,5654.89,8659.25,Supplier D,9999.0,2021-08-21
+P00613,DailyNeeds Business Book,Books,Business Book,DailyNeeds,8212.76,10764.59,Supplier C,-1.0,2021-03-27
+P00614,Orion USB-C Hub,Electronics,USB-C Hub, Orion ,7917.51,11558.98,Local Vendor,-1.0,2025-04-18
+P00615,UrbanNest Air Fryer,Home & Kitchen,Air Fryer,UrbanNest,9420.78,12122.24,Supplier C,78.0,2024-03-13
+P00616,UrbanNest Mechanical Keyboard,Electronics,Mechanical Keyboard,UrbanNest,3881.55,7308.06,Supplier B,-1.0,2026-01-17
+P00617,ProGear Sunglasses,Fashion,Sunglasses,ProGear,6920.04,10673.49,Supplier B,9999.0,2022-05-15
+P00618,CasaLite Hair Dryer,Beauty,Hair Dryer,CasaLite,9076.97,14887.33,Supplier C,9999.0,2021-10-03
+P00619,Zenith Face Wash,Beauty,Face Wash,Zenith,6828.23,10405.83,Local Vendor,9999.0,2023-01-10
+P00620,EverBuy Data Analytics Book,Books,Data Analytics Book,EverBuy,7871.73,12446.94,Supplier B,3.0,2021-05-10
+P00621,ProGear Moisturizer,BEAUTY,Moisturizer,progear,12243.05,16158.44,Supplier A,9999.0,2020-10-19
+P00622,vivid webcam,ELECTRONICS,webcam,vivid,8396.26,12418.87,Local Vendor,-1.0,2019-03-10
+P00623,Zenith Business Book,Books,Business Book,Zenith,2647.96,4793.1,Supplier B,9999.0,2024-04-21
+P00624,Apex Cookbook,books,Cookbook,apex,15518.01,27419.24,Supplier C,106.0,2026-01-22
+P00625,CasaLite Webcam,electronics,Webcam,CasaLite,14110.42,25622.78,Supplier A,9999.0,2023-04-21
+P00626,APEX AIR FRYER,Home & Kitchen,Air Fryer,apex,1265.79,2270.99,Local Vendor,61.0,2021-06-12
+P00627,Apex Backpack,Fashion,Backpack,Apex,14782.85,23152.24,Supplier B,9999.0,2021-01-24
+P00628,Nova Cricket Bat,Sports,Cricket Bat,Nova,559.26,1149.13,Supplier C,191.0,2023-07-19
+P00629,Apex Webcam,ELECTRONICS,Webcam,Apex,11747.58,14917.14,Supplier C,-1.0,2023-07-10
+P00630,Apex Wireless Earbuds,Electronics,Wireless Earbuds,Apex,10252.28,16084.14,Supplier B,,2020-05-23
+P00631,MobiMax Watch,Fashion,Watch,MobiMax,7129.63,9664.21,Supplier D,-1.0,2019-04-16
+P00632,MobiMax Water Bottle,Home & Kitchen, Water Bottle ,MobiMax,15347.31,23644.31,Supplier C,-1.0,2023-12-30
+P00633,orion backpack,FASHION,Backpack,Orion,3874.45,5865.93,Supplier A,,2021-08-10
+P00634,MOBIMAX WATER BOTTLE,Home & Kitchen, Water Bottle ,MobiMax,7433.41,9202.28,Supplier B,,2022-01-30
+P00635,Nova Fiction Novel,BOOKS,FICTION NOVEL,Nova,7674.62,11297.27,Supplier D,,2020-10-30
+P00636,EverBuy Fiction Novel,Books,Fiction Novel,EverBuy,4729.54,7796.16,Supplier D,,2022-01-04
+P00637,ProGear Face Wash,Beauty,Face Wash,ProGear,20237.35,29884.56,Supplier C,47.0,2023-01-08
+P00638,MobiMax Sunscreen,Beauty,Sunscreen,MobiMax,15682.04,21826.03,Supplier A,148.0,2025-01-19
+P00639,ZENITH SMARTWATCH,Electronics,Smartwatch,Zenith,1025.96,1491.53,Local Vendor,,2022-08-02
+P00640,TrendX Cookbook,Books,Cookbook,TrendX,11436.38,22768.11,Supplier A,9999.0,2019-01-06
+P00641, Apex Running Shoes ,Sports,Running Shoes,Apex,697.33,1221.27,Supplier B,22.0,2020-04-22
+P00642,Orion T-Shirt,Fashion,t-shirt,Orion,13893.35,25934.19,Supplier D,131.0,2024-01-30
+P00643,Nova Air Fryer,Home & Kitchen, Air Fryer ,Nova,6435.19,13348.06,Local Vendor,119.0,2019-01-16
+P00644, EverBuy Smartwatch ,Electronics,Smartwatch,EVERBUY,13343.28,27307.23,Supplier D,9999.0,2021-06-16
+P00645,CasaLite Bluetooth Speaker,Electronics,Bluetooth Speaker,CasaLite,16259.3,25527.86,Local Vendor,158.0,2022-09-14
+P00646,Orion Webcam,Electronics,Webcam,orion,11444.8,14951.16,,,2020-09-23
+P00647,Apex Face Wash,Beauty,Face Wash,Apex,4049.65,5467.45,Supplier A,246.0,2023-12-18
+P00648,Apex Sunscreen,Beauty,SUNSCREEN,Apex,13587.74,16803.87,Supplier C,-1.0,2019-04-06
+P00649, Vivid Yoga Mat ,Sports, Yoga Mat ,Vivid,6544.57,10477.09,Local Vendor,9999.0,2020-03-09
+P00650,Apex Running Shoes,Sports,Running Shoes,Apex,17791.36,29744.93,Supplier B,131.0,2019-03-06
+P00651,Nova Cricket Bat,Sports,Cricket Bat, Nova ,11270.04,16085.18,Supplier C,9999.0,2021-10-18
+P00652,Nova Storage Box,Home & Kitchen, Storage Box ,,2227.27,3818.19,Supplier A,-1.0,2020-01-28
+P00653,Vivid Football,SPORTS,Football,Vivid,2648.89,3710.26,Supplier C,-1.0,2025-11-18
+P00654,CasaLite USB-C Hub,Electronics,USB-C Hub,,4644.77,8210.87,Local Vendor,-1.0,2026-02-10
+P00655,UrbanNest Water Bottle,Home & Kitchen,Water Bottle,UrbanNest,12044.74,22392.61,Supplier D,,2025-02-14
+P00656,TrendX USB-C Hub,Electronics,USB-C Hub,TrendX,18923.04,26900.92,Local Vendor,9999.0,2019-07-22
+P00657,ProGear Coffee Maker,Home & Kitchen,Coffee Maker,ProGear,14469.29,26717.25,Supplier D,-1.0,2020-06-10
+P00658,Apex Data Analytics Book,Books,Data Analytics Book,Apex,7939.34,10274.44,Supplier C,9999.0,2025-02-01
+P00659, Orion Face Wash ,Beauty,Face Wash,Orion,9532.79,20607.28,Supplier C,,2020-03-29
+P00660,Orion Yoga Mat,Sports, Yoga Mat ,Orion,817.02,1694.19,Supplier A,9999.0,2024-01-19
+P00661,CasaLite Backpack,Fashion, Backpack ,CasaLite,18026.75,27851.27,Local Vendor,,2019-05-06
+P00662,Nova Yoga Mat,Sports,Yoga Mat,Nova,3895.7,7662.89,Supplier B,20.0,2025-04-04
+P00663,apex self help book,Books,SELF HELP BOOK,APEX,13713.29,25856.27,Supplier A,-1.0,2024-10-31
+P00664,ProGear Desk Lamp,Home & Kitchen,Desk Lamp,PROGEAR,206.89,401.29,Supplier A,9999.0,2025-07-13
+P00665, Apex Mixer Grinder ,home & kitchen,Mixer Grinder,Apex,18669.84,29344.05,Supplier B,,2023-05-11
+P00666,Zenith Data Analytics Book,Books,Data Analytics Book,Zenith,1796.17,3446.35,Supplier D,-1.0,2025-10-08
+P00667,Vivid Business Book,Books,Business Book,Vivid,15707.45,20969.88,Local Vendor,-1.0,2022-04-25
+P00668,ProGear T-Shirt,fashion,T-Shirt,ProGear,3304.7,5090.26,Supplier A,-1.0,2021-09-20
+P00669, CasaLite Storage Box , Home & Kitchen ,Storage Box,CasaLite,14040.74,22097.65,Supplier A,-1.0,2025-11-18
+P00670,CasaLite Desk Lamp,Home & Kitchen,Desk Lamp,CasaLite,12427.73,20722.49,Local Vendor,-1.0,2024-03-30
+P00671,Vivid Coffee Maker,Home & Kitchen,Coffee Maker,vivid,13544.59,17481.45,Supplier A,-1.0,2020-11-09
+P00672,TrendX Running Shoes,Sports,Running Shoes,TrendX,11089.34,15682.53,Supplier D,244.0,2022-03-31
+P00673,DailyNeeds Business Book,Books,business book,DailyNeeds,5476.84,9699.4,Local Vendor,-1.0,2023-06-06
+P00674,TrendX Hoodie,Fashion,Hoodie,TRENDX,5326.23,9926.2,Local Vendor,188.0,2022-03-31
+P00675,mobimax usb-c hub,Electronics,USB-C Hub,MobiMax,5443.77,9607.86,Supplier C,-1.0,2024-01-29
+P00676,CasaLite Bluetooth Speaker,ELECTRONICS,Bluetooth Speaker,CASALITE,15961.81,20214.04,Local Vendor,101.0,2023-09-04
+P00677,zenith yoga mat,Sports,Yoga Mat,Zenith,12253.24,15974.64,Supplier C,,2021-04-06
+P00678,Apex Coffee Maker,Home & Kitchen,Coffee Maker,apex,13355.41,21654.15,Local Vendor,-1.0,2025-06-14
+P00679,Vivid Backpack,fashion,Backpack,VIVID,16422.73,28724.72,Supplier C,-1.0,2019-09-14
+P00680, DailyNeeds Air Fryer ,Home & Kitchen,Air Fryer, DailyNeeds ,4823.18,6691.22,Supplier B,9999.0,2021-04-24
+P00681,EverBuy Hoodie,Fashion,Hoodie,EverBuy,18429.23,29564.03,Local Vendor,-1.0,2023-04-02
+P00682,DailyNeeds Running Shoes,Sports,Running Shoes,DailyNeeds,8442.35,14729.24,Local Vendor,223.0,2019-08-20
+P00683, TrendX Data Analytics Book ,Books,Data Analytics Book,TrendX,11260.39,14353.17,,,2022-04-05
+P00684,UrbanNest Wireless Earbuds,Electronics,Wireless Earbuds,urbannest,12893.1,21132.95,Supplier A,-1.0,2022-01-27
+P00685,CasaLite Hoodie,Fashion,Hoodie,CasaLite,190.44,254.9,Local Vendor,9999.0,2023-03-15
+P00686,CasaLite Hair Dryer,Beauty,hair dryer,CasaLite,15298.73,24837.68,Supplier D,9999.0,2024-09-04
+P00687,Nova Bluetooth Speaker,Electronics,Bluetooth Speaker,Nova,17272.97,22614.33,Supplier C,211.0,2025-08-30
+P00688,ProGear Moisturizer,Beauty, Moisturizer ,ProGear,15118.17,27217.32,Supplier A,-1.0,2023-07-02
+P00689,UrbanNest Backpack,Fashion,Backpack,UrbanNest,14109.98,28264.75,Supplier A,9999.0,2023-08-15
+P00690,Vivid Desk Lamp,Home & Kitchen,Desk Lamp,vivid,15377.05,20897.39,Supplier D,97.0,2023-09-08
+P00691,TrendX Face Wash,Beauty,Face Wash,TrendX,9665.89,14316.56,Supplier B,165.0,2021-03-04
+P00692,MobiMax Cookbook,Books,Cookbook,MobiMax,10522.82,15317.2,Local Vendor,-1.0,2025-02-01
+P00693,Apex Watch,FASHION,Watch,Apex,1430.42,2403.48,Supplier B,240.0,2022-07-29
+P00694,Apex Sneakers,Fashion,Sneakers,apex,14211.29,21288.49,Supplier D,9999.0,2026-01-22
+P00695,EverBuy Sunscreen,Beauty, Sunscreen ,EverBuy,6545.45,10086.27,Local Vendor,9999.0,2026-01-04
+P00696,Apex Sunglasses,Fashion,Sunglasses,Apex,11567.96,22272.01,Supplier A,226.0,2022-12-26
+P00697,UrbanNest Data Analytics Book,Books,Data Analytics Book,UrbanNest,9588.98,12251.19,Supplier D,-1.0,2025-11-19
+P00698,EverBuy Shampoo,Beauty,Shampoo,EverBuy,7190.88,15298.22,,77.0,2022-09-25
+P00699,MobiMax Hair Dryer,Beauty, Hair Dryer ,MobiMax,11576.8,23867.14,Supplier A,9999.0,2021-04-13
+P00700,CasaLite Self Help Book,Books,SELF HELP BOOK,CasaLite,19563.84,29383.17,Supplier D,9999.0,2026-05-15
+P00701,Vivid Watch,Fashion,Watch,Vivid,882.22,1453.81,Local Vendor,180.0,2020-12-28
+P00702, Vivid Webcam ,Electronics,Webcam,Vivid,739.35,943.87,Local Vendor,9999.0,2020-01-25
+P00703,Vivid Fiction Novel,Books,Fiction Novel,Vivid,7082.29,9310.8,Local Vendor,9999.0,2020-09-30
+P00704,mobimax yoga mat,sports,Yoga Mat,MobiMax,8039.79,14626.51,Supplier B,-1.0,2020-02-02
+P00705,Apex Moisturizer,Beauty,Moisturizer,Apex,16519.76,25229.35,Local Vendor,203.0,2021-10-26
+P00706,MobiMax Watch,Fashion,Watch,MobiMax,9529.86,15636.21,Supplier C,9999.0,2023-10-27
+P00707,DailyNeeds Coffee Maker,HOME & KITCHEN,Coffee Maker,DailyNeeds,14766.31,19297.1,Supplier B,-1.0,2023-08-14
+P00708,ProGear Backpack, Fashion ,Backpack,ProGear,1780.5,3420.12,Supplier C,-1.0,2020-09-24
+P00709, TrendX Watch ,Fashion,Watch,TrendX,1051.87,1913.97,Supplier A,-1.0,2023-12-06
+P00710,Zenith Desk Lamp,Home & Kitchen,Desk Lamp,Zenith,12536.18,19306.84,Supplier A,-1.0,2020-01-28
+P00711,MobiMax T-Shirt,FASHION,T-Shirt,MobiMax,17886.58,24759.87,Supplier A,9999.0,2021-05-31
+P00712,ProGear Fiction Novel, Books ,Fiction Novel,ProGear,22415.42,29040.98,Local Vendor,9999.0,2019-08-02
+P00713,DailyNeeds T-Shirt,FASHION, T-Shirt ,DailyNeeds,2416.37,3127.74,Supplier A,,2019-12-29
+P00714,UrbanNest Hair Dryer,Beauty,Hair Dryer,UrbanNest,12945.13,27735.11,Supplier C,238.0,2025-08-01
+P00715,Orion Cricket Bat,Sports,Cricket Bat,Orion,17201.99,24461.54,,171.0,2020-07-26
+P00716,CasaLite Yoga Mat,Sports,Yoga Mat,CasaLite,4586.71,6098.11,Supplier C,9999.0,2021-01-01
+P00717,TrendX T-Shirt,Fashion,T-Shirt,TrendX,19753.46,24477.33,Supplier B,22.0,2026-05-06
+P00718,Nova Mixer Grinder,Home & Kitchen, Mixer Grinder ,Nova,4738.4,6656.29,Local Vendor,-1.0,2020-09-04
+P00719,MobiMax Watch,Fashion,Watch,MobiMax,13867.46,23617.96,Supplier D,,2019-07-13
+P00720,DailyNeeds Desk Lamp,Home & Kitchen,Desk Lamp,DailyNeeds,5918.56,9395.14,Supplier D,9999.0,2019-11-16
+P00721,mobimax smartwatch,Electronics,Smartwatch,MobiMax,10774.14,13370.61,Supplier C,52.0,2020-11-26
+P00722,CasaLite Cricket Bat,Sports,Cricket Bat,CasaLite,8019.01,16833.63,Supplier B,-1.0,2025-05-10
+P00723,trendx data analytics book,books,,TrendX,4040.09,7511.5,Supplier A,-1.0,2021-03-08
+P00724,Apex Desk Lamp,Home & Kitchen,Desk Lamp,Apex,9628.93,15678.46,Supplier B,,2019-04-22
+P00725,progear bluetooth speaker,Electronics,Bluetooth Speaker,ProGear,16301.19,27277.99,Local Vendor,9999.0,2020-10-16
+P00726,VIVID SUNGLASSES,fashion,Sunglasses,Vivid,11333.61,14207.83,Supplier C,9999.0,2019-05-05
+P00727,TrendX Fiction Novel,Books, Fiction Novel ,TrendX,8721.83,12486.67,Supplier B,,2021-05-31
+P00728,UrbanNest Coffee Maker,Home & Kitchen,Coffee Maker,urbannest,2359.44,5007.15,Supplier A,,2025-05-11
+P00729,Nova Self Help Book,Books,Self Help Book,Nova,16845.52,23366.55,Supplier B,9999.0,2024-03-18
+P00730,DailyNeeds Desk Lamp,Home & Kitchen,,DailyNeeds,17453.38,23514.64,Supplier B,206.0,2024-11-10
+P00731,DailyNeeds Sneakers,Fashion,Sneakers,DailyNeeds,14792.77,27417.02,Local Vendor,-1.0,2022-02-27
+P00732,Zenith Self Help Book,Books,,Zenith,10860.68,17591.62,Supplier C,,2022-06-02
+P00733,UrbanNest Jeans,Fashion,jeans,UrbanNest,5473.25,7120.86,Supplier B,177.0,2024-11-15
+P00734,Vivid Sneakers,Fashion,Sneakers,Vivid,13800.6,19863.65,Local Vendor,9999.0,2026-06-08
+P00735,CasaLite Power Bank,Electronics,Power Bank,CasaLite,12075.92,16003.59,Supplier B,9999.0,2025-07-20
+P00736, Apex Resistance Bands ,sports,Resistance Bands,Apex,5381.1,10241.9,Supplier B,9999.0,2022-12-19
+P00737,TrendX Moisturizer,Beauty,Moisturizer,TrendX,18512.64,23055.14,Supplier C,191.0,2025-07-25
+P00738,MobiMax Data Analytics Book,BOOKS,Data Analytics Book,MobiMax,19865.47,25260.49,Supplier C,9999.0,2020-12-12
+P00739,Apex Fiction Novel,BOOKS,Fiction Novel,Apex,8333.16,17395.46,,,2019-09-27
+P00740,ZENITH PERFUME,Beauty,Perfume,Zenith,8464.52,11569.72,Local Vendor,-1.0,2021-07-28
+P00741,Zenith Business Book,Books,Business Book,Zenith,3174.91,4584.68,Supplier A,9999.0,2019-09-15
+P00742,mobimax storage box,Home & Kitchen,Storage Box,MobiMax,9454.13,14834.73,Supplier B,,2025-08-31
+P00743,ProGear Watch,Fashion, Watch ,PROGEAR,10596.4,19133.53,Supplier D,9999.0,2024-04-01
+P00744,UrbanNest Perfume,Beauty,perfume,UrbanNest,5690.93,8405.37,Supplier B,,2020-06-14
+P00745, Vivid Yoga Mat ,Sports,Yoga Mat,Vivid,7438.7,12149.24,Supplier C,37.0,2024-01-29
+P00746,UrbanNest USB-C Hub,ELECTRONICS,USB-C Hub,UrbanNest,2268.76,3921.84,Supplier A,9999.0,2021-01-14
+P00747,Apex Self Help Book,BOOKS, Self Help Book ,Apex,21888.65,26720.57,Supplier D,-1.0,2021-07-02
+P00748,UrbanNest Running Shoes,Sports,Running Shoes, UrbanNest ,14106.68,23600.74,Supplier A,9999.0,2022-12-28
+P00749,Nova Sneakers,Fashion,Sneakers,,1124.26,1433.65,Supplier C,-1.0,2024-04-18
+P00750,ProGear Hair Dryer,Beauty,Hair Dryer,ProGear,6732.43,10870.21,Supplier B,-1.0,2019-11-15
+P00751,Nova Dumbbells,Sports,Dumbbells,Nova,7228.4,9100.83,Local Vendor,9999.0,2022-05-08
+P00752,MobiMax Webcam,Electronics,Webcam,MobiMax,169.43,277.57,Supplier C,245.0,2025-09-08
+P00753,ProGear Dumbbells,Sports,Dumbbells,ProGear,21130.06,28856.69,Supplier D,,2022-06-26
+P00754,MobiMax Shampoo,Beauty,Shampoo,MobiMax,16299.56,25540.24,Supplier D,,2020-06-16
+P00755,UrbanNest Mixer Grinder, Home & Kitchen ,Mixer Grinder,,9009.75,15624.28,Supplier C,86.0,2020-03-26
+P00756,Apex Cookbook,Books,Cookbook,Apex,8257.36,14457.61,Supplier B,,2020-05-11
+P00757,CasaLite Moisturizer,Beauty, Moisturizer ,CasaLite,3832.19,5156.04,Supplier B,-1.0,2023-02-25
+P00758, Nova Sunscreen ,Beauty,Sunscreen,,7286.57,12898.24,,-1.0,2023-03-13
+P00759,ProGear Jeans,Fashion,Jeans,ProGear,11065.75,18809.77,Supplier C,,2020-11-10
+P00760,Orion Sunscreen,Beauty,Sunscreen,Orion,4462.43,8137.58,Local Vendor,132.0,2023-02-23
+P00761,Vivid Yoga Mat,Sports,Yoga Mat,Vivid,7139.89,9966.25,Supplier B,-1.0,2024-07-21
+P00762,Vivid Watch,Fashion,Watch,Vivid,11773.51,20339.1,Local Vendor,,2019-04-10
+P00763,Orion Business Book,Books,Business Book,Orion,13473.71,23617.7,Local Vendor,,2024-05-04
+P00764,Orion Sunglasses,Fashion,Sunglasses,Orion,10945.29,20169.4,Local Vendor,186.0,2024-06-21
+P00765,EVERBUY PERFUME,Beauty,Perfume,EverBuy,1738.72,3574.15,Supplier C,-1.0,2026-04-30
+P00766,Orion Self Help Book, Books ,Self Help Book,Orion,8647.52,13784.13,Supplier B,9999.0,2021-05-30
+P00767,UrbanNest Hoodie,Fashion,Hoodie,UrbanNest,14467.27,20511.07,Supplier A,,2024-04-27
+P00768,EverBuy Backpack,Fashion,Backpack,everbuy,12467.22,26304.5,,69.0,2020-10-23
+P00769,MobiMax Desk Lamp,Home & Kitchen,Desk Lamp,MobiMax,11297.75,15503.93,Supplier D,45.0,2022-06-27
+P00770,MobiMax Air Fryer,Home & Kitchen,Air Fryer,MobiMax,12811.2,22944.71,Local Vendor,,2025-10-02
+P00771,EverBuy Face Wash,Beauty,face wash,EverBuy,14908.36,18201.94,Supplier D,-1.0,2026-01-12
+P00772,orion wireless earbuds,Electronics,Wireless Earbuds,,5201.76,9598.33,Supplier B,9999.0,2022-07-28
+P00773,Orion Business Book,Books, Business Book ,,7131.75,12503.08,Supplier D,-1.0,2025-06-26
+P00774,DailyNeeds Wireless Earbuds,Electronics,Wireless Earbuds,DailyNeeds,14879.07,20583.3,,112.0,2022-09-20
+P00775,Orion Air Fryer,Home & Kitchen,Air Fryer,orion,12561.8,17941.3,,-1.0,2023-10-22
+P00776,Orion Jeans,fashion,Jeans,Orion,10296.13,18387.22,Supplier D,222.0,2021-02-17
+P00777,DailyNeeds Bluetooth Speaker,Electronics,Bluetooth Speaker,DailyNeeds,10514.67,22528.32,Supplier C,,2025-01-13
+P00778,Orion Power Bank,Electronics,Power Bank,Orion,9140.08,18612.11,Local Vendor,4.0,2024-01-09
+P00779,DailyNeeds Wireless Earbuds,Electronics,WIRELESS EARBUDS,dailyneeds,1444.35,2353.2,Supplier D,136.0,2023-04-02
+P00780,TrendX Backpack,Fashion,BACKPACK, TrendX ,17478.67,22952.49,Local Vendor,-1.0,2021-10-17
+P00781,Vivid Perfume,Beauty,Perfume,Vivid,8764.25,10720.89,Supplier D,9999.0,2020-09-12
+P00782,Orion Perfume,Beauty,Perfume,Orion,18652.24,27586.43,Supplier A,9999.0,2024-08-18
+P00783,dailyneeds non-stick pan,Home & Kitchen, Non-stick Pan ,DailyNeeds,8276.82,18391.02,Supplier D,-1.0,2019-01-23
+P00784,UrbanNest Data Analytics Book,Books,data analytics book,UrbanNest,5268.0,8382.8,Supplier C,-1.0,2025-06-06
+P00785,Nova Yoga Mat,Sports,Yoga Mat, Nova ,5872.21,7275.57,Local Vendor,9999.0,2020-08-21
+P00786, Apex Sunscreen ,Beauty,SUNSCREEN,Apex,18216.96,28339.66,Supplier A,-1.0,2020-04-24
+P00787,CasaLite Resistance Bands,Sports,Resistance Bands,CasaLite,8452.63,16809.03,Supplier D,,2021-01-18
+P00788,ProGear Business Book,books,Business Book,ProGear,6232.94,9958.31,Supplier B,39.0,2025-11-09
+P00789,ProGear Data Analytics Book,Books,Data Analytics Book,,20434.48,29225.99,Local Vendor,9999.0,2023-08-31
+P00790,TrendX Face Wash,Beauty,FACE WASH,TrendX,14319.58,26743.11,Supplier A,81.0,2019-05-03
+P00791,Zenith Storage Box,Home & Kitchen,Storage Box,Zenith,651.84,1354.58,Supplier D,-1.0,2019-09-12
+P00792,Apex Sunglasses,Fashion,Sunglasses,Apex,3471.92,6268.2,Local Vendor,9999.0,2026-04-25
+P00793,CasaLite Hoodie,Fashion,Hoodie,CasaLite,10779.46,16768.15,Supplier C,,2023-08-22
+P00794,CasaLite USB-C Hub,Electronics,USB-C Hub,CasaLite,3936.47,5241.16,Local Vendor,9999.0,2021-06-20
+P00795,ProGear Mechanical Keyboard,Electronics,Mechanical Keyboard,ProGear,15607.15,25832.65,Supplier B,44.0,2025-06-11
+P00796,Zenith Hair Dryer,beauty,Hair Dryer,Zenith,724.61,1116.59,Supplier B,,2019-04-18
+P00797, Apex Sunglasses ,Fashion,Sunglasses,Apex,2736.86,5335.78,Supplier C,-1.0,2023-12-16
+P00798,EverBuy Air Fryer,home & kitchen,Air Fryer,everbuy,5120.36,9902.16,Supplier C,,2019-11-25
+P00799,Apex Moisturizer,Beauty,Moisturizer,Apex,17276.09,26440.27,Local Vendor,,2020-04-18
+P00800,TrendX Running Shoes,SPORTS,Running Shoes,TrendX,12557.19,20174.43,Supplier C,9999.0,2020-01-31
+P00801,Orion Hoodie,FASHION,Hoodie,orion,1389.31,2264.92,Supplier D,9999.0,2022-11-14
+P00802,Apex Fiction Novel,Books,Fiction Novel,Apex,3385.88,7207.78,Supplier B,105.0,2022-05-25
+P00803,Orion Self Help Book,Books, Self Help Book ,Orion,12462.33,20356.62,Local Vendor,,2024-10-02
+P00804,MobiMax Backpack,fashion,Backpack,MobiMax,5727.31,10613.27,Supplier A,-1.0,2024-06-25
+P00805,Orion Water Bottle,Home & Kitchen,WATER BOTTLE,Orion,5647.49,7484.72,Supplier B,,2020-10-30
+P00806,Vivid Shampoo,Beauty,Shampoo,Vivid,9211.77,16237.55,Supplier A,-1.0,2022-06-19
+P00807,EverBuy Power Bank,ELECTRONICS,Power Bank,EverBuy,2513.32,5573.58,Local Vendor,-1.0,2025-01-25
+P00808,urbannest cricket bat,Sports,Cricket Bat,UrbanNest,13521.36,19095.22,Supplier A,9999.0,2023-05-13
+P00809,EverBuy Watch,Fashion,Watch,EverBuy,5262.28,7286.5,Supplier C,,2020-10-02
+P00810,Zenith Cricket Bat,Sports,Cricket Bat,Zenith,17382.8,24263.84,Supplier D,9999.0,2023-06-27
+P00811,DailyNeeds Non-stick Pan,Home & Kitchen,Non-stick Pan,DailyNeeds,5461.66,11296.96,Supplier A,62.0,2022-05-07
+P00812,Vivid Face Wash,Beauty,Face Wash,Vivid,2028.2,3748.42,Local Vendor,9999.0,2019-06-20
+P00813,Apex Wireless Earbuds,Electronics,Wireless Earbuds,Apex,5048.13,9641.86,Supplier D,211.0,2019-01-11
+P00814,Orion Sneakers,Fashion,Sneakers,Orion,659.83,1330.39,Supplier A,,2019-11-22
+P00815,DailyNeeds Business Book,Books,Business Book,DailyNeeds,18120.12,25488.23,Local Vendor,-1.0,2020-06-25
+P00816,DailyNeeds Jeans,Fashion,jeans,dailyneeds,460.87,818.12,Supplier D,9999.0,2022-09-07
+P00817,orion air fryer,Home & Kitchen,Air Fryer,Orion,7556.89,11016.14,Supplier A,,2026-01-08
+P00818,Orion Self Help Book,BOOKS,SELF HELP BOOK,Orion,15587.53,24933.52,Supplier A,-1.0,2023-11-13
+P00819,orion data analytics book,Books,Data Analytics Book,ORION,5274.7,9505.74,Supplier C,9999.0,2024-03-27
+P00820,Orion Self Help Book,Books,Self Help Book,Orion,9050.41,17797.07,Supplier A,9999.0,2023-01-05
+P00821,casalite bluetooth speaker,Electronics,Bluetooth Speaker,CasaLite,14522.2,18976.66,Supplier C,,2020-02-23
+P00822,MobiMax Mechanical Keyboard,Electronics,Mechanical Keyboard,MobiMax,8967.15,15597.54,Supplier D,9999.0,2023-03-20
+P00823,MobiMax T-Shirt,Fashion,T-Shirt,mobimax,4198.54,7469.78,,-1.0,2021-01-06
+P00824,Vivid Face Wash,Beauty,Face Wash,Vivid,18370.89,25655.71,Supplier C,125.0,2019-07-05
+P00825,MobiMax Wireless Earbuds,Electronics,Wireless Earbuds,MobiMax,16463.0,24358.37,,9999.0,2020-01-08
+P00826,casalite jeans,Fashion,Jeans,casalite,7059.31,10762.37,Supplier A,146.0,2023-10-18
+P00827, Apex Moisturizer ,Beauty,Moisturizer,Apex,6396.54,8848.4,Supplier C,222.0,2026-01-11
+P00828,CasaLite Wireless Earbuds,Electronics,wireless earbuds,CasaLite,4674.19,7764.93,Supplier A,,2024-05-02
+P00829,Vivid Hoodie,Fashion,Hoodie,VIVID,8608.38,11740.85,Supplier A,,2024-04-23
+P00830,EVERBUY USB-C HUB,Electronics,USB-C Hub,EverBuy,4166.81,5269.79,Local Vendor,46.0,2024-06-01
+P00831,EverBuy Business Book,Books,Business Book,EverBuy,4913.56,7193.78,Supplier D,,2023-06-21
+P00832,DailyNeeds Desk Lamp,Home & Kitchen,Desk Lamp,DailyNeeds,12238.49,16486.45,Supplier D,-1.0,2019-09-30
+P00833,casalite face wash,beauty,Face Wash,CasaLite,14511.63,25661.88,Supplier A,9999.0,2021-09-26
+P00834,TrendX Business Book,Books,Business Book,TrendX,16071.51,23303.82,Supplier B,9999.0,2023-01-06
+P00835,EverBuy Perfume,beauty,Perfume,EverBuy,12274.51,20952.83,Supplier A,9999.0,2022-12-27
+P00836,Vivid Water Bottle,Home & Kitchen,Water Bottle,Vivid,7921.95,13873.03,Supplier A,-1.0,2023-08-10
+P00837,Vivid Watch,Fashion,Watch,Vivid,8787.87,17154.89,Supplier B,9999.0,2026-06-01
+P00838,Vivid Hoodie,Fashion,Hoodie,Vivid,14588.39,18136.77,Supplier A,58.0,2024-05-17
+P00839,TrendX Shampoo,Beauty,Shampoo,TrendX,13828.28,17827.29,Supplier A,-1.0,2025-08-10
+P00840,Apex Face Wash, Beauty ,Face Wash,Apex,9364.27,15954.18,Supplier C,-1.0,2020-07-31
+P00841,Nova Mechanical Keyboard,Electronics,Mechanical Keyboard,Nova,7348.82,16066.99,Supplier D,,2024-09-22
+P00842,DailyNeeds Yoga Mat,Sports,Yoga Mat,DailyNeeds,14177.26,22592.26,,217.0,2022-06-04
+P00843,nova hoodie, Fashion ,Hoodie,Nova,2180.72,4751.23,,109.0,2020-12-30
+P00844,TrendX Sunglasses,Fashion,Sunglasses,TrendX,18965.01,24871.79,Supplier B,239.0,2023-05-09
+P00845,Apex Running Shoes,Sports,Running Shoes, Apex ,4666.15,6821.29,Supplier C,9999.0,2020-03-30
+P00846,EVERBUY SELF HELP BOOK,Books,Self Help Book,EverBuy,11946.28,20268.12,Supplier B,-1.0,2024-04-28
+P00847,UrbanNest Wireless Earbuds,Electronics,Wireless Earbuds,URBANNEST,13151.4,21167.53,Supplier B,,2025-10-01
+P00848, Orion Cookbook ,BOOKS,Cookbook,Orion,131.43,220.11,Local Vendor,9999.0,2025-12-15
+P00849,ProGear Cricket Bat,Sports,Cricket Bat,ProGear,3100.07,4518.27,Local Vendor,80.0,2021-08-09
+P00850,Apex Cricket Bat,Sports,Cricket Bat, Apex ,15183.64,21855.28,Local Vendor,-1.0,2024-01-14
+P00851,Nova Fiction Novel,Books,Fiction Novel,Nova,2943.22,4742.5,Supplier A,-1.0,2022-12-22
+P00852,MOBIMAX DUMBBELLS,Sports,Dumbbells,MobiMax,13643.77,20928.5,Supplier B,116.0,2022-09-11
+P00853,Apex Wireless Earbuds,electronics,Wireless Earbuds,Apex,1732.99,2839.74,Supplier C,246.0,2023-01-04
+P00854,DailyNeeds Jeans,FASHION,Jeans,DAILYNEEDS,10198.69,13207.84,Supplier D,9999.0,2023-07-08
+P00855,Apex Cookbook,Books,Cookbook,Apex,10992.79,14815.62,Supplier D,9999.0,2019-04-15
+P00856,TrendX Wireless Earbuds,Electronics,Wireless Earbuds,trendx,8836.82,12581.37,Local Vendor,,2023-04-04
+P00857,Nova Running Shoes,Sports,RUNNING SHOES,Nova,638.44,1264.46,Supplier D,,2020-10-24
+P00858,DailyNeeds Wireless Earbuds,Electronics,Wireless Earbuds,DailyNeeds,16951.57,27498.63,Supplier B,-1.0,2022-04-13
+P00859,MOBIMAX COFFEE MAKER,HOME & KITCHEN,Coffee Maker,MobiMax,16569.95,28181.55,Local Vendor,,2024-10-16
+P00860, CasaLite Yoga Mat ,Sports,Yoga Mat,CasaLite,19742.93,28875.68,Supplier B,9999.0,2019-02-01
+P00861,EverBuy Coffee Maker,Home & Kitchen,COFFEE MAKER,EverBuy,854.45,1695.07,Supplier B,,2021-05-30
+P00862,orion usb-c hub,Electronics,,Orion,17260.68,26060.69,Supplier C,9999.0,2024-12-08
+P00863,DailyNeeds Perfume,Beauty,Perfume,DailyNeeds,11461.47,22640.54,Local Vendor,,2022-10-15
+P00864,NOVA RUNNING SHOES,Sports,Running Shoes,Nova,8724.98,13148.44,Supplier A,-1.0,2025-01-29
+P00865,Apex Resistance Bands,Sports,Resistance Bands,apex,15919.45,23472.58,Local Vendor,9999.0,2021-10-03
+P00866,CasaLite Power Bank,Electronics,Power Bank,CasaLite,15959.75,28222.59,Supplier B,9999.0,2026-01-05
+P00867,UrbanNest Watch,Fashion,Watch,UrbanNest,5655.12,12533.55,Supplier D,,2025-04-21
+P00868,DailyNeeds Mixer Grinder,Home & Kitchen,Mixer Grinder,DailyNeeds,6577.33,9398.08,Supplier B,9999.0,2022-06-13
+P00869,DailyNeeds Hoodie,Fashion, Hoodie ,DailyNeeds,622.68,1383.21,Supplier C,,2020-07-04
+P00870,ProGear Dumbbells,Sports,Dumbbells,ProGear,4493.86,8015.88,Supplier A,186.0,2020-04-26
+P00871,CasaLite Air Fryer,HOME & KITCHEN,Air Fryer,CasaLite,6509.53,11756.04,Supplier A,-1.0,2026-01-21
+P00872,Vivid Fiction Novel,Books,Fiction Novel,,4060.71,4971.19,Supplier B,9999.0,2025-06-24
+P00873,ProGear Yoga Mat,Sports,Yoga Mat,ProGear,18798.83,26561.21,Supplier A,,2024-11-19
+P00874,UrbanNest Yoga Mat,Sports,Yoga Mat,UrbanNest,3459.99,7424.53,Supplier C,-1.0,2025-10-01
+P00875,CasaLite Self Help Book, Books ,Self Help Book,CasaLite,11987.55,15772.03,Supplier B,,2020-05-27
+P00876,DailyNeeds Power Bank,Electronics,Power Bank,DAILYNEEDS,6911.51,8513.35,Supplier A,,2019-08-29
+P00877,CasaLite Watch, Fashion ,Watch,casalite,22550.08,29486.58,Supplier D,5.0,2024-01-27
+P00878,MobiMax Jeans,Fashion,Jeans,MobiMax,6779.19,13530.97,Supplier D,,2023-03-20
+P00879,EVERBUY DESK LAMP,Home & Kitchen,desk lamp,EVERBUY,1553.16,3431.95,Supplier C,9999.0,2025-10-19
+P00880,UrbanNest Moisturizer,BEAUTY,Moisturizer,UrbanNest,12866.78,15926.75,Supplier A,,2025-07-23
+P00881, MobiMax Fiction Novel ,Books,Fiction Novel,MobiMax,15416.29,20641.62,Local Vendor,177.0,2022-01-24
+P00882,TrendX Coffee Maker,Home & Kitchen,Coffee Maker,TrendX,12839.47,20736.29,Local Vendor,9999.0,2024-05-15
+P00883,EverBuy Football,Sports,Football,EverBuy,10655.86,13286.06,Supplier B,240.0,2019-03-27
+P00884,EverBuy T-Shirt,Fashion,T-Shirt,everbuy,8103.42,10216.75,Supplier B,9999.0,2024-11-22
+P00885,Zenith Shampoo,Beauty,SHAMPOO, Zenith ,1258.84,1662.97,Supplier D,,2025-01-31
+P00886,Zenith Resistance Bands,Sports,Resistance Bands,Zenith,13300.93,21193.34,Supplier C,,2022-09-21
+P00887,TrendX Bluetooth Speaker,ELECTRONICS,Bluetooth Speaker,TRENDX,15647.53,23020.43,Supplier C,212.0,2019-03-15
+P00888,UrbanNest USB-C Hub,Electronics,USB-C Hub,urbannest,933.15,1413.28,Supplier A,9999.0,2022-02-07
+P00889,TrendX Sunscreen, Beauty ,Sunscreen,TrendX,9088.03,17402.3,Supplier C,-1.0,2021-11-23
+P00890,Vivid Sunglasses,Fashion,sunglasses,Vivid,15360.61,21097.51,,9999.0,2022-02-23
+P00891,MobiMax T-Shirt,Fashion,T-Shirt,MobiMax,1585.18,2002.5,Supplier A,9999.0,2025-07-15
+P00892,Orion Non-stick Pan,Home & Kitchen,Non-stick Pan,Orion,11381.85,17852.45,Supplier D,5.0,2023-12-05
+P00893,TrendX Air Fryer,Home & Kitchen,Air Fryer,TrendX,4195.25,5943.8,Supplier D,-1.0,2021-01-13
+P00894,UrbanNest Cookbook,Books,COOKBOOK,UrbanNest,3840.34,8213.01,Supplier D,-1.0,2021-01-07
+P00895,DailyNeeds Self Help Book,books, Self Help Book ,DAILYNEEDS,14053.97,20022.6,Supplier B,9999.0,2021-07-16
+P00896,CasaLite Sunscreen,Beauty,Sunscreen,CasaLite,12005.48,18505.09,Local Vendor,9999.0,2019-06-04
+P00897, TrendX Power Bank ,Electronics,Power Bank,TrendX,5602.51,6864.37,Supplier C,9999.0,2021-08-21
+P00898,MobiMax Dumbbells,Sports,Dumbbells,MobiMax,2202.59,4067.83,Supplier C,,2025-10-03
+P00899,Zenith Watch,Fashion,Watch,Zenith,16042.24,22751.29,Supplier B,9999.0,2019-04-06
+P00900, DailyNeeds Football ,Sports,Football,dailyneeds,20045.1,24624.78,Supplier B,-1.0,2023-07-15
+P00901,MobiMax Water Bottle,Home & Kitchen,Water Bottle,MobiMax,2143.51,4107.97,Supplier A,,2022-11-27
+P00902,DailyNeeds Moisturizer, Beauty ,Moisturizer,DailyNeeds,17376.09,29830.08,Supplier B,-1.0,2023-07-15
+P00903,UrbanNest Data Analytics Book,Books,Data Analytics Book,UrbanNest,4734.77,7341.09,Local Vendor,9999.0,2020-11-21
+P00904,Zenith Sunglasses,FASHION,sunglasses,Zenith,11844.95,25676.12,Supplier C,9999.0,2019-08-28
+P00905,Apex Smartwatch,electronics,Smartwatch,Apex,15425.61,26617.56,Supplier D,,2019-12-19
+P00906,dailyneeds webcam,Electronics,Webcam,DailyNeeds,1416.79,1777.2,Supplier C,-1.0,2020-03-31
+P00907,MobiMax Data Analytics Book,Books,Data Analytics Book,MobiMax,8409.17,16226.64,Supplier C,140.0,2023-11-17
+P00908, MobiMax Running Shoes ,Sports,Running Shoes,mobimax,4636.77,8938.35,,,2025-04-05
+P00909,ProGear Mechanical Keyboard,Electronics,Mechanical Keyboard,ProGear,5743.19,11782.28,Supplier A,105.0,2024-09-25
+P00910,TrendX Moisturizer,Beauty,Moisturizer,trendx,10117.02,20163.04,Supplier A,,2025-11-28
+P00911,CasaLite T-Shirt,FASHION,T-Shirt,CasaLite,5526.53,10637.82,Supplier A,83.0,2024-05-10
+P00912,Zenith Face Wash,Beauty,Face Wash,zenith,8255.08,11254.18,Supplier C,,2021-06-27
+P00913,UrbanNest Jeans,Fashion,jeans,UrbanNest,1385.74,2037.56,,171.0,2025-12-06
+P00914,TrendX Dumbbells,Sports,Dumbbells,TrendX,18982.78,25573.97,Supplier A,,2021-04-08
+P00915,Apex Water Bottle,Home & Kitchen,Water Bottle,Apex,3331.35,4242.12,Supplier A,191.0,2024-01-20
+P00916,Orion Non-stick Pan,Home & Kitchen, Non-stick Pan ,orion,1336.61,2560.26,Supplier A,,2021-07-22
+P00917,CasaLite Data Analytics Book,Books,Data Analytics Book,CasaLite,829.73,1229.58,Local Vendor,,2023-09-12
+P00918,UrbanNest Business Book,BOOKS, Business Book ,URBANNEST,19785.64,27080.28,Supplier A,9999.0,2021-02-26
+P00919,Orion Cricket Bat,Sports,Cricket Bat,Orion,9737.08,20149.04,Supplier D,12.0,2023-06-30
+P00920,UrbanNest Fiction Novel,Books,Fiction Novel,UrbanNest,3863.01,8297.93,Supplier B,,2022-07-16
+P00921,Nova Data Analytics Book,Books,Data Analytics Book,Nova,7078.57,15574.83,Supplier A,9999.0,2025-07-06
+P00922,TrendX Fiction Novel,Books,Fiction Novel,TrendX,19934.32,26131.65,Supplier B,137.0,2019-07-08
+P00923,Orion Hair Dryer,Beauty,Hair Dryer,Orion,2276.98,4981.8,Supplier B,5.0,2023-07-12
+P00924,TRENDX HAIR DRYER,Beauty, Hair Dryer ,TrendX,6088.66,10471.29,Supplier D,9999.0,2026-01-30
+P00925,Zenith Power Bank,Electronics,Power Bank,Zenith,22856.97,27910.69,Supplier C,9999.0,2019-07-22
+P00926,DailyNeeds Cricket Bat,Sports,Cricket Bat,DailyNeeds,12877.02,23818.48,Local Vendor,-1.0,2020-03-07
+P00927,Vivid Yoga Mat, Sports ,Yoga Mat,Vivid,19376.79,25037.66,Supplier C,,2025-09-19
+P00928,CasaLite Hoodie,Fashion,Hoodie,CasaLite,22763.85,28618.25,Supplier D,,2020-08-12
+P00929,Apex Sunscreen,Beauty,Sunscreen,Apex,1554.97,2067.27,Supplier D,9999.0,2026-02-05
+P00930,ProGear Sunglasses,Fashion,Sunglasses,PROGEAR,5524.69,10110.88,Supplier B,9999.0,2021-01-03
+P00931,CasaLite Bluetooth Speaker,Electronics,Bluetooth Speaker,CasaLite,3247.92,4063.78,Local Vendor,9999.0,2024-06-24
+P00932,urbannest face wash,Beauty,Face Wash,UrbanNest,5539.9,9669.79,Local Vendor,217.0,2024-04-05
+P00933, Zenith Power Bank ,Electronics,Power Bank,Zenith,9266.23,12113.9,Supplier C,,2019-08-12
+P00934, EverBuy Resistance Bands ,Sports,RESISTANCE BANDS,EverBuy,19061.63,25459.33,Supplier D,,2020-04-02
+P00935,UrbanNest Mixer Grinder,Home & Kitchen,Mixer Grinder,UrbanNest,3910.77,7142.88,Local Vendor,9999.0,2020-02-14
+P00936,Zenith Running Shoes,Sports,Running Shoes,Zenith,15860.81,27136.66,Supplier B,-1.0,2024-05-29
+P00937,UrbanNest Self Help Book,books,Self Help Book,UrbanNest,2017.66,3303.04,Supplier D,-1.0,2026-03-17
+P00938,Apex Running Shoes,Sports,Running Shoes,Apex,6122.04,10362.07,Supplier D,-1.0,2022-03-16
+P00939, EverBuy Hair Dryer ,Beauty,Hair Dryer,EverBuy,6593.63,10221.7,Supplier A,188.0,2022-07-16
+P00940, MobiMax Sneakers ,Fashion,Sneakers,MobiMax,19626.04,29829.37,Local Vendor,-1.0,2019-12-13
+P00941,orion cricket bat,Sports,Cricket Bat,Orion,10768.47,20483.5,Supplier A,164.0,2022-08-10
+P00942,Orion Hoodie,fashion,Hoodie,Orion,4934.33,7842.52,Supplier D,142.0,2019-07-21
+P00943,Vivid Mechanical Keyboard,Electronics,Mechanical Keyboard,Vivid,4579.0,7293.35,Supplier B,9999.0,2023-08-07
+P00944,EverBuy Non-stick Pan,HOME & KITCHEN,non-stick pan,EverBuy,6525.03,9269.5,Supplier D,9999.0,2026-01-31
+P00945,Vivid Non-stick Pan,Home & Kitchen, Non-stick Pan ,Vivid,6412.2,12010.45,Supplier C,-1.0,2026-06-13
+P00946, Nova Dumbbells ,Sports,Dumbbells,Nova,16663.54,22353.3,Supplier C,233.0,2023-03-05
+P00947,MOBIMAX HAIR DRYER,Beauty, Hair Dryer ,MobiMax,5305.84,9590.03,Local Vendor,9999.0,2025-04-29
+P00948,Vivid Mixer Grinder,home & kitchen,Mixer Grinder,Vivid,3854.25,8406.63,Local Vendor,119.0,2022-01-05
+P00949,UrbanNest Bluetooth Speaker,Electronics,BLUETOOTH SPEAKER,UrbanNest,23274.01,29854.21,Local Vendor,9999.0,2026-02-10
+P00950,UrbanNest Business Book,BOOKS,Business Book,UrbanNest,886.64,1465.33,Local Vendor,-1.0,2023-11-14
+P00951, ProGear Hoodie ,Fashion,Hoodie,ProGear,13211.25,27370.68,Supplier A,,2026-06-08
+P00952,TrendX Sunscreen,Beauty,Sunscreen,TRENDX,5602.55,8996.3,Supplier B,133.0,2020-10-23
+P00953,TrendX Self Help Book,Books,Self Help Book,TrendX,347.03,471.2,Supplier B,9999.0,2021-08-08
+P00954,Vivid Smartwatch,Electronics,Smartwatch,Vivid,12043.2,21928.38,Local Vendor,,2024-01-12
+P00955,Vivid Desk Lamp, Home & Kitchen ,Desk Lamp,Vivid,14041.86,24368.27,Local Vendor,,2020-08-15
+P00956,Vivid Backpack,Fashion,Backpack,Vivid,11703.56,17791.86,Supplier B,-1.0,2025-01-19
+P00957,Vivid Hair Dryer,Beauty,Hair Dryer,Vivid,10862.59,18109.58,Supplier C,7.0,2023-06-01
+P00958,Orion Perfume,Beauty,Perfume,Orion,14336.35,24282.14,Supplier C,-1.0,2024-04-24
+P00959,Apex Bluetooth Speaker,Electronics,Bluetooth Speaker,Apex,6822.95,13338.89,Supplier B,230.0,2024-09-27
+P00960,vivid backpack,Fashion,Backpack,Vivid,15930.05,23066.47,Supplier B,9999.0,2023-10-25
+P00961,Apex Self Help Book,Books,Self Help Book,Apex,5483.37,12022.11,Supplier C,165.0,2024-05-31
+P00962,Orion Wireless Earbuds,Electronics,Wireless Earbuds,Orion,9070.13,18388.85,Local Vendor,-1.0,2023-11-02
+P00963,UrbanNest Desk Lamp,Home & Kitchen,Desk Lamp,UrbanNest,2470.77,3897.69,Supplier C,9999.0,2023-04-17
+P00964,Orion Self Help Book,Books,Self Help Book,Orion,12242.84,18678.65,Supplier B,,2023-05-18
+P00965,Vivid Perfume,Beauty,Perfume,Vivid,4914.58,7176.28,Supplier A,9999.0,2026-05-05
+P00966,EverBuy Sunscreen,Beauty,Sunscreen,EverBuy,19112.04,27284.18,Supplier B,,2023-08-25
+P00967,EverBuy Business Book,Books,Business Book,EverBuy,17202.51,22425.06,Supplier C,-1.0,2022-07-05
+P00968,ProGear Yoga Mat,Sports,Yoga Mat,ProGear,4620.71,5753.89,Local Vendor,-1.0,2022-11-06
+P00969,Zenith Cricket Bat,Sports,Cricket Bat,zenith,12451.62,16686.18,Supplier C,,2021-07-20
+P00970,ProGear Sunscreen,Beauty,Sunscreen,ProGear,13064.35,18317.85,Supplier A,9999.0,2019-04-19
+P00971,APEX JEANS,Fashion,Jeans,apex,4736.91,7126.13,Supplier A,-1.0,2023-05-13
+P00972,Zenith Coffee Maker,Home & Kitchen,Coffee Maker,ZENITH,12702.55,20010.41,Supplier C,-1.0,2022-11-24
+P00973,Vivid Hair Dryer,Beauty,Hair Dryer,vivid,21535.3,28252.65,Supplier D,27.0,2020-02-27
+P00974,Apex Coffee Maker,HOME & KITCHEN,Coffee Maker,Apex,4124.23,8564.32,Supplier D,-1.0,2019-07-30
+P00975,MobiMax Cookbook,Books,Cookbook,MOBIMAX,4643.55,8176.94,Supplier C,9999.0,2019-07-01
+P00976,CasaLite Water Bottle,Home & Kitchen,Water Bottle,CasaLite,5512.45,7142.2,Local Vendor,,2021-02-21
+P00977,TrendX Coffee Maker,Home & Kitchen,Coffee Maker,TrendX,1237.94,1614.68,Supplier C,-1.0,2019-08-25
+P00978,EverBuy Power Bank,Electronics,Power Bank,EverBuy,19469.25,25769.25,Local Vendor,-1.0,2019-04-24
+P00979,Zenith Business Book,Books,Business Book, Zenith ,3702.56,6514.29,Local Vendor,-1.0,2026-03-20
+P00980,TrendX Power Bank,Electronics,Power Bank,TrendX,8677.82,10671.04,Local Vendor,9999.0,2025-09-10
+P00981,Zenith Sunglasses,Fashion,Sunglasses,Zenith,17241.25,21722.21,Supplier D,9999.0,2022-03-08
+P00982,Orion T-Shirt,Fashion,T-Shirt,Orion,6387.28,9156.95,Supplier A,9999.0,2023-09-12
+P00983,CasaLite Face Wash,Beauty,Face Wash,CasaLite,1485.13,2775.7,Supplier C,,2022-12-26
+P00984,EverBuy Moisturizer,Beauty,Moisturizer,EverBuy,5375.23,7568.37,Supplier B,15.0,2021-11-28
+P00985,DailyNeeds Coffee Maker,Home & Kitchen,Coffee Maker,DAILYNEEDS,8541.33,16426.74,Supplier A,9999.0,2020-02-05
+P00986,CasaLite Hoodie,Fashion,hoodie,CasaLite,8978.33,18402.23,Supplier B,-1.0,2021-05-10
+P00987,UrbanNest Power Bank,Electronics,Power Bank,UrbanNest,17742.37,24635.2,Supplier C,186.0,2019-01-04
+P00988,TrendX Watch,Fashion,Watch,TrendX,9947.34,16045.02,Local Vendor,-1.0,2023-07-07
+P00989, ProGear Webcam ,Electronics,Webcam,,8659.04,18030.91,Local Vendor,,2024-01-16
+P00990,Nova Backpack,Fashion,backpack,Nova,16871.1,27973.33,Supplier D,-1.0,2022-10-11
+P00991,Apex Running Shoes,sports,Running Shoes,Apex,3907.0,5873.16,Supplier D,9999.0,2025-01-21
+P00992,Nova Bluetooth Speaker,Electronics,BLUETOOTH SPEAKER,nova,4464.35,7508.78,Local Vendor,-1.0,2024-03-14
+P00993,Orion Wireless Earbuds,Electronics, Wireless Earbuds ,Orion,8316.98,14552.13,Supplier B,229.0,2025-04-19
+P00994,TrendX Football,Sports,Football,TrendX,12467.23,27141.04,Supplier C,155.0,2024-12-05
+P00995,EverBuy Mixer Grinder,Home & Kitchen,Mixer Grinder,EverBuy,7900.11,13375.43,Supplier D,38.0,2021-11-21
+P00996,dailyneeds watch, Fashion ,Watch,DailyNeeds,6409.97,8427.31,Supplier D,9999.0,2020-12-27
+P00997,ProGear Football,Sports,Football,ProGear,3898.13,6311.64,Local Vendor,83.0,2019-09-23
+P00998,TrendX Hoodie,FASHION,Hoodie, TrendX ,20847.67,28177.75,Supplier D,100.0,2020-07-28
+P00999,dailyneeds cricket bat,Sports,Cricket Bat,DailyNeeds,4501.42,9912.84,Supplier A,88.0,2021-07-26
+P01000,Orion Resistance Bands,Sports,Resistance Bands,Orion,11115.26,24061.03,Supplier B,78.0,2024-09-02

@@ -1,0 +1,33 @@
+1. Data cleaning for customers table
+    -customer_id:  Found duplicates in customer_id - All the data is same some the id is different for the customer
+    -customer_name: found leading and trailing spaces in the customer name and no null found
+    - email: null found. replacing all null values to 'n/a' while trimming and lowering all emails
+    -phone: there are some irregularities in the phone number
+    -city: has some nulls
+    -state: has some nulls
+    -customer_segment: has some nulls
+    -registration_date: it is the messiest part in the table - it has different formats YYYY-MM-DD, DD-MM-YYYY, DD/MM/YYYY, DD/MM/YYYY
+    -acquisition_source: has some null values
+    -is_active: Has some nulls
+
+
+2. order_items table
+    - order_item_id: No duplicate and nulls found
+    - order_id: no issues found
+    - product_id: No issues
+    - quantity:No issues
+    - unit_price:No issues
+    - discount_pct: some values are negative
+    - tax_rate: No issues
+
+3. orders table:
+    - order_id: 
+    - customer_id: 
+    - order_date: formatting issues 
+    - order_status: whitespaces and irregularites
+    - sales_channel:
+
+
+
+4.  products table:
+    - 

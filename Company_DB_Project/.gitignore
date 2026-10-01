@@ -1,0 +1,16 @@
+# PostgreSQL dumps / local database files
+*.dump
+*.backup
+*.sql.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Python / notebook artifacts if added later
+__pycache__/
+.ipynb_checkpoints/

@@ -1,0 +1,121 @@
+employee_id,first_name,last_name,email,phone,hire_date,job_title,department_id,manager_id,salary,status
+1001,Sarah,Robinson,emp1001@company.com,555-779-2697,2019-03-10,Account Manager,2,1025,109100,Active
+1002,Angela,Thomas,emp1002@company.com,555-999-3200,2020-07-31,Senior Engineer,6,1113,77700,Active
+1003,Amy,Jones,emp1003@company.com,555-370-2891,2024-05-12,Sales Rep,4,1075,57500,Active
+1004,Barbara,Lewis,emp1004@company.com,555-209-3546,2019-02-05,Software Engineer,3,1082,52100,Active
+1005,Michael,Scott,emp1005@company.com,555-378-5616,2024-01-16,Accountant,1,1006,101400,Active
+1006,Joseph,Miller,emp1006@company.com,555-719-4450,2021-02-15,Recruiter,1,,88300,Active
+1007,Karen,Brown,emp1007@company.com,555-834-6617,2024-01-10,HR Coordinator,1,1020,65200,Active
+1008,Christopher,Adams,emp1008@company.com,555-308-5325,2018-11-09,Account Manager,5,1068,112000,Active
+1009,Jason,Wright,emp1009@company.com,555-617-9004,2018-11-01,Accountant,3,1018,102900,Active
+1010,William,Smith,emp1010@company.com,555-357-1832,2018-07-30,Sales Rep,4,1075,149600,Terminated
+1011,Deborah,Garcia,emp1011@company.com,555-194-7939,2022-05-04,Marketing Specialist,1,1118,91700,Active
+1012,Timothy,Carter,emp1012@company.com,555-949-5533,2022-04-29,Accountant,6,1056,68500,Active
+1013,Cynthia,Thomas,emp1013@company.com,555-145-1058,2017-08-30,Software Engineer,5,1116,69100,Active
+1014,Shirley,Hernandez,emp1014@company.com,555-441-3143,2019-11-04,Software Engineer,1,1118,45000,Active
+1015,Steven,Clark,emp1015@company.com,555-752-5291,2018-07-06,Marketing Specialist,1,1118,77700,Terminated
+1016,Mary,Young,emp1016@company.com,555-265-8239,2024-05-23,Recruiter,1,,72700,Active
+1017,Joseph,Walker,emp1017@company.com,555-664-8007,2016-12-10,Financial Analyst,2,1025,45000,Active
+1018,Jonathan,Wilson,emp1018@company.com,555-674-1158,2019-01-19,Accountant,3,,72400,Active
+1019,Paul,Sanchez,emp1019@company.com,555-214-2232,2018-12-05,Marketing Specialist,2,1040,125100,Active
+1020,Carol,Brown,emp1020@company.com,555-807-3442,2016-10-10,Software Engineer,1,,54500,Active
+1021,Joseph,Hernandez,emp1021@company.com,555-658-1590,2015-11-14,Software Engineer,3,1082,49800,Active
+1022,Donna,Harris,emp1022@company.com,555-954-7049,2024-01-10,Account Manager,1,1118,113800,Active
+1023,Sharon,Smith,emp1023@company.com,555-696-3426,2018-06-11,Data Analyst,1,1006,94200,Active
+1024,Christopher,Harris,emp1024@company.com,555-540-3088,2016-11-14,Recruiter,2,1025,220000,Active
+1025,Ryan,Taylor,emp1025@company.com,555-142-6050,2016-10-25,Accountant,2,,45000,Active
+1026,James,Robinson,emp1026@company.com,555-473-1653,2020-06-21,Accountant,5,1071,97600,Active
+1027,Kimberly,Jackson,emp1027@company.com,555-466-4441,2024-06-07,Sales Rep,1,1006,83000,Active
+1028,Nicholas,Ramirez,emp1028@company.com,555-798-5088,2019-06-20,Marketing Specialist,3,1031,74900,Active
+1029,Daniel,Hall,emp1029@company.com,555-782-2684,2019-02-04,Sales Rep,3,1082,105300,Active
+1030,Nicholas,Campbell,emp1030@company.com,555-462-7658,2024-01-18,Marketing Specialist,1,1006,72300,Active
+1031,Susan,Scott,emp1031@company.com,555-735-3532,2018-02-10,Senior Engineer,3,,45000,Active
+1032,Joshua,Nelson,emp1032@company.com,555-342-3662,2020-01-28,Software Engineer,1,1118,52100,Active
+1033,Nicholas,Rivera,emp1033@company.com,555-919-3900,2019-03-01,Data Analyst,1,1006,126200,On Leave
+1034,Betty,Young,emp1034@company.com,555-522-1406,2021-10-25,Account Manager,6,1113,116900,Active
+1035,Karen,Martinez,emp1035@company.com,555-283-6442,2016-07-17,Data Analyst,6,1113,63000,Active
+1036,Melissa,Gonzalez,emp1036@company.com,555-901-7745,2018-07-15,Data Analyst,5,1071,89500,Active
+1037,Christopher,Jackson,emp1037@company.com,,2024-06-19,Data Analyst,2,,220000,Active
+1038,Anna,Wilson,emp1038@company.com,555-373-3608,2024-06-20,Sales Rep,1,1020,72200,On Leave
+1039,Shirley,Brown,emp1039@company.com,555-906-2771,2023-09-20,Marketing Specialist,4,1075,72800,Active
+1040,James,Nguyen,emp1040@company.com,555-491-1634,2019-06-25,Product Manager,2,,78900,On Leave
+1041,Dorothy,Mitchell,emp1041@company.com,555-979-8711,2023-03-19,Senior Engineer,1,1118,93200,Active
+1042,Gary,Wright,emp1042@company.com,555-327-4269,2023-08-19,HR Coordinator,2,1040,63600,Active
+1043,John,Brown,emp1043@company.com,555-936-8541,2016-11-29,Data Analyst,1,1118,93200,Active
+1044,Joseph,Mitchell,emp1044@company.com,,2020-11-30,Financial Analyst,6,1056,45000,Terminated
+1045,George,Lee,emp1045@company.com,555-940-4728,2015-01-02,Sales Rep,1,1118,83700,Active
+1046,Michelle,Brown,emp1046@company.com,555-328-1387,2016-10-03,Recruiter,4,1075,74600,Active
+1047,Donald,Brown,emp1047@company.com,555-775-4164,2021-03-17,Account Manager,2,1061,67000,On Leave
+1048,Linda,Nguyen,emp1048@company.com,555-508-6378,2019-05-09,HR Coordinator,3,1082,60500,Active
+1049,Donald,Walker,emp1049@company.com,,2017-05-04,Product Manager,3,1082,57300,Active
+1050,David,Allen,emp1050@company.com,555-891-5573,2019-10-26,Financial Analyst,1,1118,52800,Active
+1051,David,King,emp1051@company.com,555-459-9346,2024-01-10,Product Manager,6,1056,45000,Active
+1052,Gary,Hernandez,emp1052@company.com,555-509-9785,2021-08-29,HR Coordinator,5,1071,65700,Active
+1053,William,Brown,emp1053@company.com,555-439-1452,2024-07-06,Data Analyst,6,1056,113400,Active
+1054,Jonathan,Allen,emp1054@company.com,555-218-5279,2019-07-20,Financial Analyst,5,1116,63900,Active
+1055,Thomas,Garcia,emp1055@company.com,555-282-5349,2018-02-27,Product Manager,3,1031,94300,Active
+1056,Thomas,Lopez,emp1056@company.com,555-139-2776,2017-12-12,Account Manager,6,,47500,Active
+1057,Jacob,Jones,emp1057@company.com,555-710-8119,2019-09-04,Marketing Specialist,1,1118,45000,On Leave
+1058,Nancy,Hill,emp1058@company.com,555-453-6139,2022-08-09,Software Engineer,1,1006,54200,Active
+1059,Kimberly,Jones,emp1059@company.com,555-546-9379,2019-08-23,Marketing Specialist,1,1006,48500,Active
+1060,Shirley,Baker,emp1060@company.com,555-218-7311,2019-09-30,HR Coordinator,2,1040,45600,Active
+1061,Jason,Thomas,emp1061@company.com,555-690-4114,2018-12-10,Sales Rep,2,,87500,Active
+1062,Margaret,Sanchez,emp1062@company.com,555-360-1727,2021-04-13,Software Engineer,1,1118,149000,Active
+1063,Anna,Davis,emp1063@company.com,555-825-8144,2017-04-15,Senior Engineer,5,1116,56000,Active
+1064,Betty,Torres,emp1064@company.com,555-101-9518,2015-07-22,Account Manager,2,1025,45000,Active
+1065,Michelle,Thomas,emp1065@company.com,555-925-9821,2023-11-30,Senior Engineer,1,1006,95100,Active
+1066,Stephanie,Nguyen,emp1066@company.com,555-803-4228,2015-05-03,Financial Analyst,3,1031,45000,Active
+1067,Melissa,Hill,emp1067@company.com,555-472-8066,2016-02-05,Accountant,1,1118,45600,On Leave
+1068,Jeffrey,Williams,emp1068@company.com,555-171-6409,2017-02-05,Software Engineer,5,,89100,Terminated
+1069,Eric,Flores,emp1069@company.com,555-738-6143,2015-10-21,Senior Engineer,1,1006,68500,Active
+1070,Laura,Garcia,emp1070@company.com,555-779-3041,2021-05-16,Senior Engineer,6,1056,55600,Active
+1071,Jessica,Clark,emp1071@company.com,555-837-5920,2023-01-10,Product Manager,5,,75200,Active
+1072,Ashley,Nelson,emp1072@company.com,555-619-6067,2015-07-17,Marketing Specialist,1,1006,62100,Active
+1073,Mark,Nguyen,emp1073@company.com,555-782-7691,2023-04-18,Product Manager,1,1006,155700,Active
+1074,William,Torres,emp1074@company.com,555-434-7592,2020-04-14,Software Engineer,5,1116,55800,Active
+1075,Carol,King,emp1075@company.com,555-813-5844,2022-08-31,Software Engineer,4,,50700,Active
+1076,John,Lee,emp1076@company.com,555-667-3085,2020-12-31,HR Coordinator,4,,61000,Active
+1077,Sandra,Taylor,emp1077@company.com,555-296-7888,2016-08-31,Product Manager,5,1071,62000,Active
+1078,Mark,Wilson,emp1078@company.com,555-780-7211,2023-12-17,Support Specialist,1,1006,92800,Active
+1079,James,Nelson,emp1079@company.com,555-793-3851,2018-02-21,Recruiter,2,,45000,Active
+1080,Elizabeth,Rivera,emp1080@company.com,555-730-5930,2015-07-06,Marketing Specialist,1,1020,86700,Active
+1081,Linda,Lee,emp1081@company.com,555-515-9977,2024-04-20,Software Engineer,5,1071,58900,Active
+1082,Sandra,Thomas,emp1082@company.com,555-953-1006,2021-11-16,HR Coordinator,3,,99800,Active
+1083,William,Taylor,emp1083@company.com,555-411-5700,2024-05-13,Accountant,2,1040,71700,Active
+1084,Robert,Sanchez,emp1084@company.com,555-315-8043,2019-11-30,Product Manager,1,1118,90000,Active
+1085,Kevin,Rodriguez,emp1085@company.com,555-904-6279,2016-10-21,Marketing Specialist,2,1061,62500,Active
+1086,Elizabeth,Nelson,emp1086@company.com,555-576-8238,2022-09-12,Accountant,2,1025,87100,Active
+1087,Angela,Adams,emp1087@company.com,555-552-4501,2023-03-22,Product Manager,4,1076,142300,Terminated
+1088,Donald,Martin,emp1088@company.com,555-623-8752,2020-05-09,Senior Engineer,3,1031,54400,Active
+1089,Emily,Robinson,emp1089@company.com,555-912-3780,2021-09-16,Accountant,5,1068,70100,Active
+1090,Gary,Lee,emp1090@company.com,555-774-2389,2018-10-01,HR Coordinator,2,1040,60200,Active
+1091,Margaret,Carter,emp1091@company.com,555-390-9445,2020-06-09,Marketing Specialist,1,1020,138300,On Leave
+1092,Anna,Jones,emp1092@company.com,,2019-03-15,Data Analyst,4,1076,61500,Active
+1093,Thomas,Smith,emp1093@company.com,555-195-4848,2015-05-27,Financial Analyst,5,1068,54600,Active
+1094,Jacob,Robinson,emp1094@company.com,555-788-6085,2023-10-25,Financial Analyst,3,1018,58000,Active
+1095,Ashley,Flores,emp1095@company.com,555-330-4262,2022-12-21,Marketing Specialist,5,1116,69300,Active
+1096,Jacob,Torres,emp1096@company.com,555-250-1400,2019-10-01,Accountant,2,1025,53200,Active
+1097,Edward,Miller,emp1097@company.com,555-147-5011,2020-01-18,Product Manager,3,1031,63100,Active
+1098,Matthew,Jones,emp1098@company.com,555-586-2193,2016-05-03,HR Coordinator,2,1061,77900,Active
+1099,Richard,Wright,emp1099@company.com,555-566-7790,2023-02-24,Recruiter,1,1006,69800,Active
+1100,Richard,Wilson,emp1100@company.com,555-744-4185,2020-05-13,Financial Analyst,1,1020,102000,Terminated
+1101,Sharon,Allen,emp1101@company.com,555-835-7291,2019-07-22,HR Coordinator,1,1118,64400,Terminated
+1102,Amanda,Taylor,emp1102@company.com,555-606-7547,2022-02-11,Financial Analyst,3,1082,67400,Active
+1103,Jason,Rodriguez,emp1103@company.com,555-349-3417,2021-07-13,Senior Engineer,2,1040,81500,Active
+1104,Edward,Thompson,emp1104@company.com,555-771-1090,2022-12-29,Product Manager,3,1031,179500,Active
+1105,Cynthia,Jones,emp1105@company.com,555-868-2746,2016-10-02,Senior Engineer,6,1113,53400,Active
+1106,Michael,Thomas,emp1106@company.com,555-897-7965,2019-12-08,Financial Analyst,1,1118,157900,Active
+1107,Richard,White,emp1107@company.com,555-324-3881,2021-11-25,Data Analyst,2,1061,45600,Active
+1108,Linda,Jackson,emp1108@company.com,555-923-9486,2020-05-23,Data Analyst,5,1071,80100,Active
+1109,Stephanie,Hernandez,emp1109@company.com,555-575-1822,2021-01-07,Senior Engineer,1,1006,63800,On Leave
+1110,Carol,Lewis,emp1110@company.com,555-670-5082,2018-12-09,Data Analyst,1,1020,52800,Active
+1111,Susan,Wright,emp1111@company.com,555-968-2988,2024-03-23,Financial Analyst,1,1020,96700,Active
+1112,Ashley,Rivera,emp1112@company.com,555-567-3184,2019-06-23,Marketing Specialist,1,1020,93000,Active
+1113,Matthew,Martin,emp1113@company.com,555-920-8612,2015-09-20,Senior Engineer,6,,60300,Active
+1114,Matthew,Flores,emp1114@company.com,555-783-9702,2019-11-23,Recruiter,5,1068,45000,Active
+1115,Jonathan,Adams,emp1115@company.com,555-672-6198,2020-12-31,Recruiter,3,1031,61800,Active
+1116,Laura,King,emp1116@company.com,555-873-8251,2021-07-21,Sales Rep,5,,77300,Active
+1117,Sarah,Smith,emp1117@company.com,555-727-9270,2016-09-15,Accountant,5,1116,73200,Active
+1118,Jason,Nelson,emp1118@company.com,555-536-9976,2017-10-13,Product Manager,1,,99000,Active
+1119,Lisa,Scott,emp1119@company.com,555-556-3607,2017-05-30,Data Analyst,5,1116,158500,Active
+1120,Emily,Martin,emp1120@company.com,,2020-08-11,Data Analyst,3,1082,86300,Active

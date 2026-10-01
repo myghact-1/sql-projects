@@ -1,0 +1,41 @@
+customer_id,first_name,last_name,email,phone,city,state,signup_date,customer_segment,is_active
+9001,Cynthia,Scott,customer5056@email.com,450-643-7751,Columbus,OH,2016-02-23,Bronze,False
+9002,Cynthia,Williams,customer5098@email.com,310-791-4830,Columbus,OH,2017-11-20,Bronze,False
+9003,Andrew,White,customer5011@email.com,926-262-6091,Phoenix,AZ,2017-02-22,Bronze,False
+9004,Ronald,Hill,customer5060@email.com,834-799-4945,Fort Worth,TX,2017-05-21,Silver,False
+9005,Matthew,Williams,customer5192@email.com,490-794-8972,Houston,TX,2016-12-06,Platinum,False
+9006,Margaret,Hall,customer5023@email.com,548-906-9318,Boston,MA,2016-05-06,Gold,False
+9007,Ronald,Green,customer5109@email.com,624-770-2622,Nashville,TN,2017-02-12,Silver,False
+9008,Kathleen,Allen,customer5137@email.com,829-144-9543,Phoenix,AZ,2017-01-01,Bronze,False
+9009,Gary,Green,customer5046@email.com,890-979-9742,San Antonio,TX,2016-09-27,Silver,False
+9010,Betty,Nguyen,customer5110@email.com,701-730-7686,Philadelphia,PA,2017-10-05,Bronze,False
+9011,Jacob,Lopez,customer5169@email.com,317-880-5564,Philadelphia,PA,2017-08-27,Silver,False
+9012,Joshua,Davis,customer5040@email.com,302-638-8486,Seattle,WA,2017-01-13,Gold,False
+9013,Deborah,Martin,,654-270-5906,Austin,TX,2016-03-13,Bronze,False
+9014,Sarah,Moore,customer5018@email.com,683-349-8483,Las Vegas,NV,2016-09-04,Bronze,False
+9015,Cynthia,Wright,,508-569-1510,Indianapolis,IN,2016-02-12,Silver,False
+9016,Patricia,Scott,customer5088@email.com,368-363-8894,Columbus,OH,2017-01-11,Silver,False
+9017,Mark,Walker,customer5175@email.com,547-459-1100,Nashville,TN,2016-02-10,Silver,False
+9018,Rebecca,Sanchez,customer5042@email.com,619-991-3529,Dallas,TX,2016-06-18,Silver,False
+9019,Karen,Robinson,customer5131@email.com,216-278-5347,Jacksonville,FL,2016-07-30,Bronze,False
+9020,Patricia,Baker,customer5106@email.com,750-238-7367,Jacksonville,FL,2017-05-07,Bronze,False
+9021,Dorothy,Flores,customer5073@email.com,874-505-5497,Columbus,OH,2017-11-10,Bronze,False
+9022,Michelle,Nelson,customer5188@email.com,697-721-8242,Philadelphia,PA,2016-02-08,Bronze,False
+9023,Dorothy,Ramirez,,309-342-7248,Portland,OR,2017-01-03,Bronze,False
+9024,Ashley,Hill,customer5142@email.com,275-182-6277,Boston,MA,2016-05-30,Platinum,False
+9025,Linda,Jackson,customer5031@email.com,393-814-4912,San Jose,CA,2016-04-20,Silver,False
+9026,Stephanie,Thompson,customer5176@email.com,385-990-3347,Jacksonville,FL,2017-04-24,Silver,False
+9027,Mark,Torres,customer5045@email.com,865-182-6383,Boston,MA,2017-03-11,Silver,False
+9028,Deborah,Scott,customer5021@email.com,964-239-2143,Detroit,MI,2016-02-16,Silver,False
+9029,Mary,Carter,customer5161@email.com,886-225-7730,San Jose,CA,2017-07-28,Silver,False
+9030,Kathleen,Brown,customer5037@email.com,707-137-3068,San Jose,CA,2016-12-31,Bronze,False
+9031,Mark,Hernandez,customer5085@email.com,379-305-3165,Charlotte,NC,2016-03-09,Bronze,False
+9032,Kathleen,Roberts,customer5199@email.com,207-609-8055,Seattle,WA,2016-10-25,Bronze,False
+9033,Kenneth,Robinson,customer5193@email.com,739-783-6053,San Antonio,TX,2016-10-22,Silver,False
+9034,Paul,Brown,customer5048@email.com,754-136-2121,Jacksonville,FL,2016-07-21,Bronze,False
+9035,Rebecca,Green,customer5025@email.com,489-843-5891,Phoenix,AZ,2016-03-01,Bronze,False
+9036,Susan,Torres,customer5127@email.com,456-917-3858,Washington,DC,2016-11-09,Silver,False
+9037,Patricia,Flores,customer5061@email.com,709-697-3344,Austin,TX,2016-06-09,Gold,False
+9038,Laura,Campbell,customer5001@email.com,726-944-1018,San Diego,CA,2016-11-26,Bronze,False
+9039,Emily,King,customer5004@email.com,392-630-6927,Boston,MA,2017-06-11,Silver,False
+9040,Michael,Lewis,customer5067@email.com,854-534-5097,Indianapolis,IN,2016-12-03,Silver,False
